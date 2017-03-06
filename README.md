@@ -36,4 +36,32 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<iframe width="400px" height="530px" src="http://thepirateasia.com/contact-us.html" style="border: none;" ></iframe>
+<div class="container">
+    <div class="row" style="margin-top: 20px;">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <form name="" method="POST" id="contact_form" onsubmit="return submitFormContact();">
+                <div class="form-group">
+                    <input type="text" required="required" class="form-control" placeholder="Your name">
+                </div>
+                <div class="form-group">
+                    <input type="email" required="required" class="form-control" placeholder="Your email">
+                </div>
+                <div class="form-group">
+                    <input type="text" required="required" class="form-control" placeholder="Subject">
+                </div>
+                <div class="form-group">
+                    <textarea rows="10" required="required" class="form-control" placeholder="Message..."></textarea>
+                </div>
+                <div class="form-group">
+                    <div class="g-recaptcha" data-sitekey="6Lc3whcUAAAAAEh2k_riP3djKf8qnYWfYFKVPUoV"></div>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-default">Submit</button>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+

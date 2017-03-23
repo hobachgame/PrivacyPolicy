@@ -1,7 +1,7 @@
 [
   {
     "rs" : [
-      "MYG",
+      "MY",
       "GYM"
     ],
     "word" : "MYG"
@@ -60,7 +60,8 @@
       "NO",
       "NOW",
       "ON",
-      "OWN"
+      "OWN",
+      "WON"
     ],
     "word" : "NOW"
   },
@@ -127,23 +128,6 @@
   },
   {
     "rs" : [
-      "DO",
-      "SOW",
-      "OR",
-      "RODS",
-      "SO",
-      "ROWS",
-      "ROD",
-      "WORD",
-      "ROW",
-      "SWORD",
-      "SOD",
-      "WORDS"
-    ],
-    "word" : "ODWRS"
-  },
-  {
-    "rs" : [
       "IS",
       "SEW",
       "WE",
@@ -179,6 +163,23 @@
       "VASE"
     ],
     "word" : "AVSE"
+  },
+  {
+    "rs" : [
+      "DO",
+      "SOW",
+      "OR",
+      "RODS",
+      "SO",
+      "ROWS",
+      "ROD",
+      "WORD",
+      "ROW",
+      "SWORD",
+      "SOD",
+      "WORDS"
+    ],
+    "word" : "ODWRS"
   },
   {
     "rs" : [
@@ -280,7 +281,8 @@
       "UPS",
       "US",
       "SOUP",
-      "SOP"
+      "SOP",
+      "PUS"
     ],
     "word" : "OPUS"
   },
@@ -4297,7 +4299,7 @@
       "KING",
       "INK",
       "KINS",
-      "INSSIGN",
+      "INSÃ±SIGN",
       "KIN",
       "SING",
       "SIN",
@@ -4309,7 +4311,7 @@
       "INKS",
       "SKIING"
     ],
-    "word" : "ÂIINNSSKG"
+    "word" : "ÂII±ÃNNSSKG"
   },
   {
     "rs" : [

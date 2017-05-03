@@ -1,33 +1,34 @@
 [
   {
     "rs" : [
-      "MY",
-      "GYM"
+      "BE",
+      "BED"
     ],
-    "word" : "MYG"
+    "word" : "BDE"
+  },
+  {
+    "rs" : [
+      "BUS",
+      "US",
+      "SUB"
+    ],
+    "word" : "BUS"
+  },
+  {
+    "rs" : [
+      "IT",
+      "FIT",
+      "IF"
+    ],
+    "word" : "TIF"
   },
   {
     "rs" : [
       "UP",
-      "CUP"
+      "US",
+      "SUP"
     ],
-    "word" : "UPC"
-  },
-  {
-    "rs" : [
-      "AT",
-      "BAT",
-      "TAB"
-    ],
-    "word" : "ATB"
-  },
-  {
-    "rs" : [
-      "GO",
-      "OF",
-      "FOG"
-    ],
-    "word" : "GOF"
+    "word" : "SPU"
   },
   {
     "rs" : [
@@ -40,12 +41,12 @@
   },
   {
     "rs" : [
-      "DO",
-      "DOG",
-      "GO",
-      "GOD"
+      "TO",
+      "POT",
+      "TOP",
+      "OPT"
     ],
-    "word" : "DOG"
+    "word" : "PTO"
   },
   {
     "rs" : [

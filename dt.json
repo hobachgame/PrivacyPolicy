@@ -3132,7 +3132,7 @@
     "rs" : [
       "BIG",
       "GIN",
-      "BIG",
+      "BIN",
       "ION",
       "BIO",
       "NIB",

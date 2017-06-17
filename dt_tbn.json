@@ -1,0 +1,2814 @@
+[
+  {
+    "rs" : [
+      "MAS",
+      "AS"
+    ],
+    "word" : "AMS"
+  },
+  {
+    "rs" : [
+      "NO",
+      "CO",
+      "CON"
+    ],
+    "word" : "NOC"
+  },
+  {
+    "rs" : [
+      "PUS",
+      "SU"
+    ],
+    "word" : "PUS"
+  },
+  {
+    "rs" : [
+      "LEY",
+      "EL",
+      "LE",
+      "EY"
+    ],
+    "word" : "ELY"
+  },
+  {
+    "rs" : [
+      "NO",
+      "EN",
+      "NEO"
+    ],
+    "word" : "ENO"
+  },
+  {
+    "rs" : [
+      "NI",
+      "FI",
+      "FIN"
+    ],
+    "word" : "INF"
+  },
+  {
+    "rs" : [
+      "DEL",
+      "EL",
+      "LE",
+      "DE"
+    ],
+    "word" : "DEL"
+  },
+  {
+    "rs" : [
+      "NI",
+      "SIN",
+      "SI"
+    ],
+    "word" : "INS"
+  },
+  {
+    "rs" : [
+      "LA",
+      "TAL",
+      "AL"
+    ],
+    "word" : "ATL"
+  },
+  {
+    "rs" : [
+      "TEZ",
+      "TE"
+    ],
+    "word" : "TEZ"
+  },
+  {
+    "rs" : [
+      "LOS",
+      "SOL"
+    ],
+    "word" : "OLS"
+  },
+  {
+    "rs" : [
+      "SAN",
+      "AS"
+    ],
+    "word" : "ANS"
+  },
+  {
+    "rs" : [
+      "ELLO",
+      "EL",
+      "LE",
+      "LO"
+    ],
+    "word" : "EOLL"
+  },
+  {
+    "rs" : [
+      "TAN",
+      "PAN"
+    ],
+    "word" : "ATPN"
+  },
+  {
+    "rs" : [
+      "AÚN",
+      "TAN",
+      "TÚ",
+      "ATÚN"
+    ],
+    "word" : "ATNÚ"
+  },
+  {
+    "rs" : [
+      "ME",
+      "EM",
+      "MENÚ",
+      "EN"
+    ],
+    "word" : "MNEÚ"
+  },
+  {
+    "rs" : [
+      "ALA",
+      "ALFA"
+    ],
+    "word" : "AAFL"
+  },
+  {
+    "rs" : [
+      "MUSA",
+      "AS",
+      "MU",
+      "SUMA",
+      "SU"
+    ],
+    "word" : "AMUS"
+  },
+  {
+    "rs" : [
+      "ZAR",
+      "BAR"
+    ],
+    "word" : "ARBZ"
+  },
+  {
+    "rs" : [
+      "SON",
+      "SINO",
+      "SIN",
+      "NOS"
+    ],
+    "word" : "OINS"
+  },
+  {
+    "rs" : [
+      "JOTA",
+      "TAJO",
+      "JA",
+      "AJO"
+    ],
+    "word" : "ATOJ"
+  },
+  {
+    "rs" : [
+      "EX",
+      "ESO",
+      "ES",
+      "SE",
+      "SEXO"
+    ],
+    "word" : "EOSX"
+  },
+  {
+    "rs" : [
+      "TIPO",
+      "PITO",
+      "TI"
+    ],
+    "word" : "OTIP"
+  },
+  {
+    "rs" : [
+      "RAS",
+      "RES"
+    ],
+    "word" : "ARSE"
+  },
+  {
+    "rs" : [
+      "CI",
+      "CE",
+      "CIEN",
+      "NI",
+      "CINE",
+      "EN"
+    ],
+    "word" : "INEC"
+  },
+  {
+    "rs" : [
+      "EGO",
+      "ESO",
+      "ESTO",
+      "SE",
+      "TOS"
+    ],
+    "word" : "OTGSE"
+  },
+  {
+    "rs" : [
+      "ECO",
+      "NEO",
+      "ONCE",
+      "CON"
+    ],
+    "word" : "ONEC"
+  },
+  {
+    "rs" : [
+      "ME",
+      "AMS",
+      "MAR",
+      "ERA"
+    ],
+    "word" : "AMRES"
+  },
+  {
+    "rs" : [
+      "IDA",
+      "VIDA"
+    ],
+    "word" : "VADI"
+  },
+  {
+    "rs" : [
+      "RENO",
+      "NEO",
+      "REO"
+    ],
+    "word" : "ORNE"
+  },
+  {
+    "rs" : [
+      "SER",
+      "RES",
+      "TE",
+      "SE",
+      "TRES"
+    ],
+    "word" : "TRSE"
+  },
+  {
+    "rs" : [
+      "COPA",
+      "OCA"
+    ],
+    "word" : "AOPC"
+  },
+  {
+    "rs" : [
+      "IRA",
+      "MIRA",
+      "RIMA",
+      "MAR"
+    ],
+    "word" : "AMRI"
+  },
+  {
+    "rs" : [
+      "TEZ",
+      "EN",
+      "TE"
+    ],
+    "word" : "TNZE"
+  },
+  {
+    "rs" : [
+      "GALO",
+      "OLA",
+      "ALGO"
+    ],
+    "word" : "AOGL"
+  },
+  {
+    "rs" : [
+      "COLA",
+      "CAL",
+      "COL",
+      "LO",
+      "LA"
+    ],
+    "word" : "AOLC"
+  },
+  {
+    "rs" : [
+      "SEÑA",
+      "ESA",
+      "AS",
+      "SE"
+    ],
+    "word" : "AÑES"
+  },
+  {
+    "rs" : [
+      "RABO",
+      "ARO",
+      "OBRA",
+      "BAR"
+    ],
+    "word" : "AORB"
+  },
+  {
+    "rs" : [
+      "USAR",
+      "AS",
+      "SU",
+      "RAS",
+      "SUR"
+    ],
+    "word" : "ARUS"
+  },
+  {
+    "rs" : [
+      "LADO",
+      "ODA",
+      "AL",
+      "LO",
+      "LA",
+      "OLA"
+    ],
+    "word" : "AODL"
+  },
+  {
+    "rs" : [
+      "ESA",
+      "ESTA"
+    ],
+    "word" : "ATES"
+  },
+  {
+    "rs" : [
+      "AVE",
+      "VAS",
+      "VER",
+      "RAS"
+    ],
+    "word" : "AVRSE"
+  },
+  {
+    "rs" : [
+      "ASCO",
+      "COSA"
+    ],
+    "word" : "AOSC"
+  },
+  {
+    "rs" : [
+      "COTA",
+      "ACTO",
+      "TACO",
+      "TOCA",
+      "OCA"
+    ],
+    "word" : "ATOC"
+  },
+  {
+    "rs" : [
+      "SED",
+      "ESO",
+      "ESTO",
+      "DOS",
+      "TOSE",
+      "TOS"
+    ],
+    "word" : "OTDES"
+  },
+  {
+    "rs" : [
+      "DON",
+      "DONDE",
+      "DEDO",
+      "NEO"
+    ],
+    "word" : "ODDNE"
+  },
+  {
+    "rs" : [
+      "ORO",
+      "OTRO",
+      "TORO",
+      "ROTO"
+    ],
+    "word" : "RTOO"
+  },
+  {
+    "rs" : [
+      "AUN",
+      "RUINA",
+      "UNIR",
+      "IRA",
+      "URNA"
+    ],
+    "word" : "ARIUN"
+  },
+  {
+    "rs" : [
+      "RAS",
+      "ASAR",
+      "AS"
+    ],
+    "word" : "RAAS"
+  },
+  {
+    "rs" : [
+      "DAR",
+      "IDA",
+      "IRA",
+      "RIA"
+    ],
+    "word" : "ARID"
+  },
+  {
+    "rs" : [
+      "SED",
+      "ESE",
+      "DESDE",
+      "SEDE"
+    ],
+    "word" : "SDDEE"
+  },
+  {
+    "rs" : [
+      "AVE",
+      "LEVA",
+      "VALE"
+    ],
+    "word" : "VAEL"
+  },
+  {
+    "rs" : [
+      "TANTO",
+      "TAN",
+      "ANO",
+      "NOTA"
+    ],
+    "word" : "ATTON"
+  },
+  {
+    "rs" : [
+      "FLORA",
+      "ORAL",
+      "FLOR",
+      "ROL",
+      "OLA",
+      "ORA"
+    ],
+    "word" : "AORFL"
+  },
+  {
+    "rs" : [
+      "CLASE",
+      "LES",
+      "ESA",
+      "SAL"
+    ],
+    "word" : "ALESC"
+  },
+  {
+    "rs" : [
+      "ANTE",
+      "TAN",
+      "TENAZ",
+      "TEZ"
+    ],
+    "word" : "ATNZE"
+  },
+  {
+    "rs" : [
+      "ODA",
+      "ORA",
+      "GRADO",
+      "DROGA",
+      "DAR"
+    ],
+    "word" : "AORDG"
+  },
+  {
+    "rs" : [
+      "PARÍS",
+      "RAS",
+      "ASÍ",
+      "PAÍS",
+      "PAR"
+    ],
+    "word" : "AÍRPS"
+  },
+  {
+    "rs" : [
+      "TRAS",
+      "ROSA",
+      "RATO",
+      "RASO"
+    ],
+    "word" : "ATROS"
+  },
+  {
+    "rs" : [
+      "OCA",
+      "NABO",
+      "BOCA",
+      "CON",
+      "CABO",
+      "BANCO",
+      "ANO"
+    ],
+    "word" : "AOBNC"
+  },
+  {
+    "rs" : [
+      "PRIMO",
+      "PRO",
+      "RIO",
+      "POR"
+    ],
+    "word" : "OMRIP"
+  },
+  {
+    "rs" : [
+      "ALA",
+      "SAL",
+      "SALA"
+    ],
+    "word" : "AASL"
+  },
+  {
+    "rs" : [
+      "AUN",
+      "CUAN",
+      "NUCA",
+      "CUNA"
+    ],
+    "word" : "AUNC"
+  },
+  {
+    "rs" : [
+      "RATA",
+      "TIRA",
+      "ATAR"
+    ],
+    "word" : "AATRI"
+  },
+  {
+    "rs" : [
+      "LODO",
+      "ÍDOLO",
+      "LÍO",
+      "OÍDO"
+    ],
+    "word" : "ÍOODL"
+  },
+  {
+    "rs" : [
+      "UN",
+      "EN",
+      "UNO",
+      "NEO",
+      "NO",
+      "NUEVO"
+    ],
+    "word" : "VOUEN"
+  },
+  {
+    "rs" : [
+      "ARCA",
+      "CARGA",
+      "CARA"
+    ],
+    "word" : "AARGC"
+  },
+  {
+    "rs" : [
+      "REO",
+      "ESO",
+      "RES",
+      "SER",
+      "SEÑOR",
+      "SOR"
+    ],
+    "word" : "OSRÑE"
+  },
+  {
+    "rs" : [
+      "ESO",
+      "SENO",
+      "NEO",
+      "SON"
+    ],
+    "word" : "ONSE"
+  },
+  {
+    "rs" : [
+      "FINA",
+      "FAN",
+      "FINAL",
+      "FILA",
+      "FLAN",
+      "FIN"
+    ],
+    "word" : "AFINL"
+  },
+  {
+    "rs" : [
+      "VELA",
+      "VALE",
+      "VALS"
+    ],
+    "word" : "AEVSL"
+  },
+  {
+    "rs" : [
+      "VALLA",
+      "LAVA"
+    ],
+    "word" : "VAALL"
+  },
+  {
+    "rs" : [
+      "PEOR",
+      "PERO",
+      "PRO",
+      "REO",
+      "POR",
+      "POBRE"
+    ],
+    "word" : "ORBPE"
+  },
+  {
+    "rs" : [
+      "ARMA",
+      "ATAR",
+      "MATAR",
+      "RATA",
+      "TRAMA"
+    ],
+    "word" : "AAMRT"
+  },
+  {
+    "rs" : [
+      "PISAR",
+      "RAS",
+      "PIS",
+      "IRA"
+    ],
+    "word" : "ARIPS"
+  },
+  {
+    "rs" : [
+      "RADAR",
+      "TARA",
+      "RATA",
+      "ARAR"
+    ],
+    "word" : "AATRRD"
+  },
+  {
+    "rs" : [
+      "ROCÍO",
+      "ORO",
+      "RÍO",
+      "CRÍO",
+      "OÍR",
+      "CORO"
+    ],
+    "word" : "OOÍRC"
+  },
+  {
+    "rs" : [
+      "SER",
+      "SOR",
+      "REO"
+    ],
+    "word" : "ORES"
+  },
+  {
+    "rs" : [
+      "AVE",
+      "VEGA",
+      "GRAVE",
+      "VER",
+      "ERA"
+    ],
+    "word" : "AVRGE"
+  },
+  {
+    "rs" : [
+      "LIMA",
+      "MIL",
+      "MILLA",
+      "MAL",
+      "LILA"
+    ],
+    "word" : "AMILL"
+  },
+  {
+    "rs" : [
+      "DAR",
+      "SUDAR",
+      "RAS",
+      "SUR"
+    ],
+    "word" : "ARDUS"
+  },
+  {
+    "rs" : [
+      "CANON",
+      "ANO",
+      "OCA",
+      "CON"
+    ],
+    "word" : "AONNC"
+  },
+  {
+    "rs" : [
+      "PEOR",
+      "PEDO",
+      "PRO",
+      "PERO",
+      "PODER",
+      "REO"
+    ],
+    "word" : "ODPRE"
+  },
+  {
+    "rs" : [
+      "EGO",
+      "GEN",
+      "NEO",
+      "GENIO"
+    ],
+    "word" : "OINEG"
+  },
+  {
+    "rs" : [
+      "LISO",
+      "LISTO",
+      "LOS",
+      "SOL",
+      "TOS"
+    ],
+    "word" : "OTISL"
+  },
+  {
+    "rs" : [
+      "TARDE",
+      "ARTE"
+    ],
+    "word" : "ATDRE"
+  },
+  {
+    "rs" : [
+      "DAR",
+      "REJA",
+      "DEJAR",
+      "JADE",
+      "ERA",
+      "RED"
+    ],
+    "word" : "ADREJ"
+  },
+  {
+    "rs" : [
+      "ALFA",
+      "FATAL",
+      "FALTA",
+      "RATA",
+      "ALTA"
+    ],
+    "word" : "AAFRTL"
+  },
+  {
+    "rs" : [
+      "DOSIS",
+      "IDO",
+      "DOS",
+      "DIOS"
+    ],
+    "word" : "ODISS"
+  },
+  {
+    "rs" : [
+      "METRO",
+      "TUMOR",
+      "RETO",
+      "TEMOR",
+      "MURO"
+    ],
+    "word" : "OMRTUE"
+  },
+  {
+    "rs" : [
+      "LATÍN",
+      "TAN",
+      "TÍA",
+      "TAL"
+    ],
+    "word" : "AÍTNL"
+  },
+  {
+    "rs" : [
+      "REO",
+      "PEOR",
+      "PRO",
+      "PERO",
+      "PERRO",
+      "POR"
+    ],
+    "word" : "ORRPE"
+  },
+  {
+    "rs" : [
+      "ANO",
+      "NEO",
+      "AJENO",
+      "AJO"
+    ],
+    "word" : "AONEJ"
+  },
+  {
+    "rs" : [
+      "RUIDO",
+      "DURO",
+      "IDO"
+    ],
+    "word" : "ORIDU"
+  },
+  {
+    "rs" : [
+      "SU",
+      "AS",
+      "OS",
+      "USO",
+      "ABUSO",
+      "BUS"
+    ],
+    "word" : "AOBUS"
+  },
+  {
+    "rs" : [
+      "MI",
+      "MINI",
+      "NI",
+      "MITIN",
+      "TI"
+    ],
+    "word" : "TMIIN"
+  },
+  {
+    "rs" : [
+      "ORO",
+      "OTRO",
+      "CORTO",
+      "TORO",
+      "ROTO",
+      "CORO"
+    ],
+    "word" : "OOTRC"
+  },
+  {
+    "rs" : [
+      "NOCHE",
+      "ECO",
+      "NEO",
+      "CON"
+    ],
+    "word" : "OHNEC"
+  },
+  {
+    "rs" : [
+      "AVE",
+      "VENA",
+      "AUN",
+      "NAVE",
+      "UVA",
+      "NUEVA"
+    ],
+    "word" : "VAUNE"
+  },
+  {
+    "rs" : [
+      "CARO",
+      "ORA",
+      "ROCA",
+      "OCA",
+      "ARCO"
+    ],
+    "word" : "AORC"
+  },
+  {
+    "rs" : [
+      "CLAVO",
+      "CALVO",
+      "COL",
+      "OLA",
+      "OCA",
+      "VOCAL"
+    ],
+    "word" : "VAOLC"
+  },
+  {
+    "rs" : [
+      "LORO",
+      "ORO",
+      "OLOR",
+      "COLOR"
+    ],
+    "word" : "OORLC"
+  },
+  {
+    "rs" : [
+      "SOPA",
+      "PASO",
+      "SAPO"
+    ],
+    "word" : "AOPS"
+  },
+  {
+    "rs" : [
+      "OSA",
+      "RASO",
+      "ARO"
+    ],
+    "word" : "AORS"
+  },
+  {
+    "rs" : [
+      "UN",
+      "QUIEN",
+      "EN",
+      "NI",
+      "QUE"
+    ],
+    "word" : "NIUEQ"
+  },
+  {
+    "rs" : [
+      "REO",
+      "MERO"
+    ],
+    "word" : "OMRE"
+  },
+  {
+    "rs" : [
+      "LISO",
+      "POS",
+      "PISO",
+      "PIS",
+      "SOL",
+      "POLI"
+    ],
+    "word" : "OIPLS"
+  },
+  {
+    "rs" : [
+      "AMO",
+      "AMOR",
+      "MAR",
+      "MORA",
+      "RAMO"
+    ],
+    "word" : "AMRO"
+  },
+  {
+    "rs" : [
+      "TOMA",
+      "AMOR",
+      "TOMAR",
+      "RAMO",
+      "RATO"
+    ],
+    "word" : "AMORT"
+  },
+  {
+    "rs" : [
+      "JAMÁS",
+      "AJÁ",
+      "MÁS",
+      "MAS"
+    ],
+    "word" : "AMÁSJ"
+  },
+  {
+    "rs" : [
+      "IR",
+      "LIGA",
+      "LIGAR",
+      "LA",
+      "GIRA"
+    ],
+    "word" : "ARIGL"
+  },
+  {
+    "rs" : [
+      "AMA",
+      "CAMA",
+      "CAL",
+      "ALMA",
+      "MAL",
+      "LACA"
+    ],
+    "word" : "AAMLC"
+  },
+  {
+    "rs" : [
+      "BECA",
+      "CABE",
+      "CAL",
+      "CABLE"
+    ],
+    "word" : "AEBLC"
+  },
+  {
+    "rs" : [
+      "ARO",
+      "PRO",
+      "ROPA",
+      "PAR"
+    ],
+    "word" : "AORP"
+  },
+  {
+    "rs" : [
+      "AS",
+      "ES",
+      "PAÍS",
+      "ESPÍA",
+      "SÍ"
+    ],
+    "word" : "AÍPSE"
+  },
+  {
+    "rs" : [
+      "ARO",
+      "RABO",
+      "OBRA",
+      "BRAZO",
+      "ZAR",
+      "BAR"
+    ],
+    "word" : "AORBZ"
+  },
+  {
+    "rs" : [
+      "ANCHO",
+      "ANO",
+      "OCA",
+      "CON"
+    ],
+    "word" : "AOHNC"
+  },
+  {
+    "rs" : [
+      "PASAR",
+      "PARA",
+      "RAS",
+      "PASA",
+      "PAR"
+    ],
+    "word" : "AARPS"
+  },
+  {
+    "rs" : [
+      "SAN",
+      "SOM",
+      "SANO",
+      "SOGA",
+      "NOS",
+      "GANSO",
+      "ASNO"
+    ],
+    "word" : "AMOGNS"
+  },
+  {
+    "rs" : [
+      "APIO",
+      "PIANO",
+      "PINO",
+      "ANO",
+      "PAN"
+    ],
+    "word" : "AOINP"
+  },
+  {
+    "rs" : [
+      "BECA",
+      "CABER",
+      "CAER",
+      "CEBRA",
+      "CERA"
+    ],
+    "word" : "ARBEC"
+  },
+  {
+    "rs" : [
+      "DON",
+      "NIDO",
+      "IDO",
+      "UNO",
+      "NUDO",
+      "UNIDO"
+    ],
+    "word" : "ODIUN"
+  },
+  {
+    "rs" : [
+      "HABLA",
+      "ALBA",
+      "BALA",
+      "ALA"
+    ],
+    "word" : "AAHBL"
+  },
+  {
+    "rs" : [
+      "RACE",
+      "REO",
+      "ECO",
+      "CERRO",
+      "CERO"
+    ],
+    "word" : "AORREC"
+  },
+  {
+    "rs" : [
+      "MANO",
+      "MONA",
+      "AMO",
+      "ANO"
+    ],
+    "word" : "AMON"
+  },
+  {
+    "rs" : [
+      "NI",
+      "TI",
+      "TAN",
+      "PAN",
+      "PA",
+      "PINTA",
+      "TINA"
+    ],
+    "word" : "ATINP"
+  },
+  {
+    "rs" : [
+      "SAN",
+      "NASA",
+      "SAUNA",
+      "AUN"
+    ],
+    "word" : "AAUSN"
+  },
+  {
+    "rs" : [
+      "FE",
+      "REO",
+      "FEO",
+      "IR",
+      "FIERO"
+    ],
+    "word" : "OFRIE"
+  },
+  {
+    "rs" : [
+      "SOR",
+      "RAS",
+      "AÑO",
+      "RASO",
+      "ROSA"
+    ],
+    "word" : "AORSÑ"
+  },
+  {
+    "rs" : [
+      "LEÑA",
+      "ESA",
+      "LES",
+      "SEÑA",
+      "SAL",
+      "SEÑAL"
+    ],
+    "word" : "AESÑL"
+  },
+  {
+    "rs" : [
+      "COMO",
+      "LOMO",
+      "COLMO",
+      "COL",
+      "LOCO"
+    ],
+    "word" : "OOMLC"
+  },
+  {
+    "rs" : [
+      "TE",
+      "EN",
+      "ENTRE",
+      "TREN",
+      "TENER"
+    ],
+    "word" : "TRNEE"
+  },
+  {
+    "rs" : [
+      "ESO",
+      "ESTO",
+      "ESE",
+      "TOS",
+      "ESTE"
+    ],
+    "word" : "OTSEE"
+  },
+  {
+    "rs" : [
+      "JAGUE",
+      "QUEJA",
+      "QUE"
+    ],
+    "word" : "AJGUEQ"
+  },
+  {
+    "rs" : [
+      "COSTE",
+      "ESTO",
+      "ECO",
+      "ESO",
+      "TOS",
+      "SECO"
+    ],
+    "word" : "OSTEC"
+  },
+  {
+    "rs" : [
+      "SOPA",
+      "PASO",
+      "PATO"
+    ],
+    "word" : "ATOPS"
+  },
+  {
+    "rs" : [
+      "TE",
+      "TAPA",
+      "PATA",
+      "APTA",
+      "ETAPA"
+    ],
+    "word" : "AATPE"
+  },
+  {
+    "rs" : [
+      "TE",
+      "AL",
+      "EL",
+      "TELA",
+      "TAL"
+    ],
+    "word" : "ATLE"
+  },
+  {
+    "rs" : [
+      "AL",
+      "SI",
+      "SALA",
+      "ALA",
+      "AS",
+      "ALIAS"
+    ],
+    "word" : "AAISL"
+  },
+  {
+    "rs" : [
+      "BARCO",
+      "ROCA",
+      "OBRA",
+      "COBRA",
+      "ARCO",
+      "BOCA"
+    ],
+    "word" : "AORBC"
+  },
+  {
+    "rs" : [
+      "LODO",
+      "LORO",
+      "ROL",
+      "DOLOR"
+    ],
+    "word" : "OORDL"
+  },
+  {
+    "rs" : [
+      "PAUSA",
+      "AS",
+      "PASA",
+      "ASA",
+      "PUS",
+      "SU"
+    ],
+    "word" : "AAPUS"
+  },
+  {
+    "rs" : [
+      "REO",
+      "EGO",
+      "RIEGO",
+      "GIRO"
+    ],
+    "word" : "ORIGE"
+  },
+  {
+    "rs" : [
+      "ALZAR",
+      "ZAR",
+      "AZAR",
+      "LA",
+      "ALA",
+      "RAZA"
+    ],
+    "word" : "AARLZ"
+  },
+  {
+    "rs" : [
+      "FETO",
+      "ARTE",
+      "RETO",
+      "RATO",
+      "FARO"
+    ],
+    "word" : "AORFTE"
+  },
+  {
+    "rs" : [
+      "REO",
+      "METRO",
+      "MERO",
+      "RETO",
+      "TEMOR",
+      "TERMO"
+    ],
+    "word" : "OMRTE"
+  },
+  {
+    "rs" : [
+      "VOS",
+      "AVISO",
+      "VISA",
+      "VASO"
+    ],
+    "word" : "AVOIS"
+  },
+  {
+    "rs" : [
+      "IR",
+      "MORIR",
+      "RIO",
+      "MI"
+    ],
+    "word" : "OMRRI"
+  },
+  {
+    "rs" : [
+      "LUCA",
+      "LUCHA",
+      "CUAL",
+      "CAL"
+    ],
+    "word" : "AHULC"
+  },
+  {
+    "rs" : [
+      "LAGO",
+      "ARO",
+      "OLA",
+      "LARGO",
+      "ORAL",
+      "ALGO",
+      "GOL"
+    ],
+    "word" : "AORGL"
+  },
+  {
+    "rs" : [
+      "NADA",
+      "DAR",
+      "ANDAR",
+      "RANA"
+    ],
+    "word" : "AARDN"
+  },
+  {
+    "rs" : [
+      "LANCE",
+      "CENA",
+      "CLAN"
+    ],
+    "word" : "AENLC"
+  },
+  {
+    "rs" : [
+      "PLAGA",
+      "GALA",
+      "PALA",
+      "ALA",
+      "PAGA"
+    ],
+    "word" : "AAPGL"
+  },
+  {
+    "rs" : [
+      "CERA",
+      "CAER",
+      "ARCE"
+    ],
+    "word" : "AREC"
+  },
+  {
+    "rs" : [
+      "OCA",
+      "COSA",
+      "CASA",
+      "SACO",
+      "CAOS",
+      "CASO",
+      "ACASO",
+      "ASCO"
+    ],
+    "word" : "AAOSC"
+  },
+  {
+    "rs" : [
+      "ALFA",
+      "SALA",
+      "ALA",
+      "SAL",
+      "FALSA"
+    ],
+    "word" : "AAFSL"
+  },
+  {
+    "rs" : [
+      "PASE",
+      "PESA",
+      "SEPA"
+    ],
+    "word" : "APSE"
+  },
+  {
+    "rs" : [
+      "USO",
+      "SO",
+      "TOS",
+      "SUSTO"
+    ],
+    "word" : "OTUSS"
+  },
+  {
+    "rs" : [
+      "DIANA",
+      "NADA",
+      "IDA"
+    ],
+    "word" : "AADIN"
+  },
+  {
+    "rs" : [
+      "VOS",
+      "VISTO",
+      "TOS",
+      "VITO"
+    ],
+    "word" : "VTOIS"
+  },
+  {
+    "rs" : [
+      "MIEL",
+      "MIL",
+      "FIEL"
+    ],
+    "word" : "MFIEL"
+  },
+  {
+    "rs" : [
+      "RUTA",
+      "AUTOR",
+      "AUTO",
+      "RATO"
+    ],
+    "word" : "ATROU"
+  },
+  {
+    "rs" : [
+      "LOBO",
+      "SOLO",
+      "BOLSO",
+      "LOS",
+      "OSO",
+      "SOL"
+    ],
+    "word" : "OOBLS"
+  },
+  {
+    "rs" : [
+      "CAZA",
+      "PAZ",
+      "CAPA",
+      "CAPAZ"
+    ],
+    "word" : "AAPZC"
+  },
+  {
+    "rs" : [
+      "AMA",
+      "MAFIA",
+      "FAMA",
+      "MI"
+    ],
+    "word" : "AAMFI"
+  },
+  {
+    "rs" : [
+      "PARAR",
+      "PARA",
+      "ARAR",
+      "PAR"
+    ],
+    "word" : "AARRP"
+  },
+  {
+    "rs" : [
+      "ALBA",
+      "BALA",
+      "TABLA",
+      "ALTA",
+      "LATA",
+      "BATA",
+      "TAL"
+    ],
+    "word" : "AATBL"
+  },
+  {
+    "rs" : [
+      "LANZA",
+      "LANA",
+      "ALA",
+      "ALZA"
+    ],
+    "word" : "AANZL"
+  },
+  {
+    "rs" : [
+      "LATA",
+      "TAPA",
+      "PATA",
+      "TAL"
+    ],
+    "word" : "AATPL"
+  },
+  {
+    "rs" : [
+      "CARA",
+      "CARTA",
+      "ATAR",
+      "ACTA",
+      "TAC",
+      "ARCA",
+      "RATA"
+    ],
+    "word" : "AATRC"
+  },
+  {
+    "rs" : [
+      "MANDA",
+      "NADA",
+      "AMA",
+      "DAMA"
+    ],
+    "word" : "AAMDN"
+  },
+  {
+    "rs" : [
+      "ATAR",
+      "PARA",
+      "TAPAR",
+      "PATA",
+      "RATA",
+      "PAR"
+    ],
+    "word" : "AATRP"
+  },
+  {
+    "rs" : [
+      "LITRO",
+      "TIRO",
+      "RITO",
+      "ROL"
+    ],
+    "word" : "OTRIL"
+  },
+  {
+    "rs" : [
+      "PAZ",
+      "PALA",
+      "ALZA",
+      "PLAZA"
+    ],
+    "word" : "AAPZL"
+  },
+  {
+    "rs" : [
+      "ONDA",
+      "MANDO",
+      "MONA",
+      "MODA"
+    ],
+    "word" : "AMDON"
+  },
+  {
+    "rs" : [
+      "IDO",
+      "DOS",
+      "DIOS",
+      "DIOSA"
+    ],
+    "word" : "AODIS"
+  },
+  {
+    "rs" : [
+      "ALTO",
+      "PLATO",
+      "OLA",
+      "PATO",
+      "APTO"
+    ],
+    "word" : "AOTPL"
+  },
+  {
+    "rs" : [
+      "PAZ",
+      "PIEZA",
+      "PIE",
+      "PEZ"
+    ],
+    "word" : "AIPZE"
+  },
+  {
+    "rs" : [
+      "ODA",
+      "DÍA",
+      "CAÍDO",
+      "OCA"
+    ],
+    "word" : "AÍDOC"
+  },
+  {
+    "rs" : [
+      "AMA",
+      "AMO",
+      "AMADO",
+      "ODA",
+      "MODA",
+      "DAMA"
+    ],
+    "word" : "AAMOD"
+  },
+  {
+    "rs" : [
+      "CASO",
+      "CAOS",
+      "SACO",
+      "OCA",
+      "COCA"
+    ],
+    "word" : "AOSCC"
+  },
+  {
+    "rs" : [
+      "ESO",
+      "MES",
+      "MUSEO",
+      "USO"
+    ],
+    "word" : "OMUSE"
+  },
+  {
+    "rs" : [
+      "TIRO",
+      "RITO",
+      "TIMO",
+      "RITMO"
+    ],
+    "word" : "OTRIM"
+  },
+  {
+    "rs" : [
+      "SED",
+      "MES",
+      "MÁS",
+      "DEMÁS"
+    ],
+    "word" : "ÁMDSE"
+  },
+  {
+    "rs" : [
+      "LOTE",
+      "LENTO",
+      "NETO"
+    ],
+    "word" : "OTNLE"
+  },
+  {
+    "rs" : [
+      "EGO",
+      "REO",
+      "ROCE",
+      "COGER",
+      "ECO",
+      "CERO"
+    ],
+    "word" : "ORGEC"
+  },
+  {
+    "rs" : [
+      "NOTAR",
+      "ORA",
+      "TAN",
+      "ANO",
+      "NOTA"
+    ],
+    "word" : "ATRON"
+  },
+  {
+    "rs" : [
+      "ARO",
+      "HARTO",
+      "HORA",
+      "RATO"
+    ],
+    "word" : "ATROH"
+  },
+  {
+    "rs" : [
+      "AMAR",
+      "ARMA",
+      "ARMAR",
+      "MAR",
+      "ARAR",
+      "RAMA"
+    ],
+    "word" : "MAARR"
+  },
+  {
+    "rs" : [
+      "MARTE",
+      "MATE",
+      "META",
+      "ARTE"
+    ],
+    "word" : "ATRME"
+  },
+  {
+    "rs" : [
+      "ROCE",
+      "ECO",
+      "FEO",
+      "COFRE"
+    ],
+    "word" : "OFREC"
+  },
+  {
+    "rs" : [
+      "CERA",
+      "YACER",
+      "CAER"
+    ],
+    "word" : "AYREC"
+  },
+  {
+    "rs" : [
+      "DOCE",
+      "DON",
+      "ECO",
+      "NEO",
+      "ONCE",
+      "CONDE"
+    ],
+    "word" : "ODNEC"
+  },
+  {
+    "rs" : [
+      "ROCE",
+      "EURO",
+      "CUERO",
+      "CERO"
+    ],
+    "word" : "ORUEC"
+  },
+  {
+    "rs" : [
+      "MAYO",
+      "AMOR",
+      "ARO",
+      "MAR",
+      "RAYO",
+      "RAMO",
+      "AMO",
+      "MAYOR"
+    ],
+    "word" : "AMYOR"
+  },
+  {
+    "rs" : [
+      "LORO",
+      "OGRO",
+      "ORO",
+      "LOGRO"
+    ],
+    "word" : "OORGL"
+  },
+  {
+    "rs" : [
+      "TAL",
+      "TELA"
+    ],
+    "word" : "ATEL"
+  },
+  {
+    "rs" : [
+      "AUN",
+      "PUNTA",
+      "TAN",
+      "PAN",
+      "PUTA"
+    ],
+    "word" : "ATPUN"
+  },
+  {
+    "rs" : [
+      "OCA",
+      "AMOR",
+      "ROCA",
+      "MARCO",
+      "CARO",
+      "COMA",
+      "AMO",
+      "ORA"
+    ],
+    "word" : "AMORC"
+  },
+  {
+    "rs" : [
+      "REO",
+      "ORA",
+      "ERA",
+      "AÉREO"
+    ],
+    "word" : "AORÉE"
+  },
+  {
+    "rs" : [
+      "DE",
+      "PEDA",
+      "PARED",
+      "RED"
+    ],
+    "word" : "ARDPE"
+  },
+  {
+    "rs" : [
+      "DAR",
+      "IDO",
+      "IRA",
+      "ODIAR"
+    ],
+    "word" : "AORID"
+  },
+  {
+    "rs" : [
+      "ROCE",
+      "CORTE",
+      "RECTO",
+      "TERCO",
+      "RETO",
+      "CERO"
+    ],
+    "word" : "OTREC"
+  },
+  {
+    "rs" : [
+      "DAR",
+      "RUEDA",
+      "ERA",
+      "RED"
+    ],
+    "word" : "ARDUE"
+  },
+  {
+    "rs" : [
+      "APIO",
+      "POCA",
+      "COPIA",
+      "COPA",
+      "OCA",
+      "PICO"
+    ],
+    "word" : "AOIPC"
+  },
+  {
+    "rs" : [
+      "USAR",
+      "SUR",
+      "RISA",
+      "RAS",
+      "IRA",
+      "RUSA"
+    ],
+    "word" : "ARIUS"
+  },
+  {
+    "rs" : [
+      "OBRA",
+      "BRAZO",
+      "RABO"
+    ],
+    "word" : "AORBZ"
+  },
+  {
+    "rs" : [
+      "AMOR",
+      "OLA",
+      "ROL",
+      "MAR",
+      "RAMO",
+      "MORAL",
+      "ORAL",
+      "LOMA"
+    ],
+    "word" : "AMORL"
+  },
+  {
+    "rs" : [
+      "LANA",
+      "LAVA",
+      "NAVAL",
+      "ALA"
+    ],
+    "word" : "AAVNL"
+  },
+  {
+    "rs" : [
+      "AMA",
+      "GAMA",
+      "AMIGA",
+      "MAGIA"
+    ],
+    "word" : "AAMIG"
+  },
+  {
+    "rs" : [
+      "AVE",
+      "ESA",
+      "SUAVE",
+      "UVA"
+    ],
+    "word" : "AVUSE"
+  },
+  {
+    "rs" : [
+      "KIKA",
+      "VILLA",
+      "VIL"
+    ],
+    "word" : "AVKKILL"
+  },
+  {
+    "rs" : [
+      "ROCE",
+      "CAER",
+      "CARO"
+    ],
+    "word" : "AOREC"
+  },
+  {
+    "rs" : [
+      "FORMA",
+      "AMOR",
+      "MAR",
+      "RAMO",
+      "FARO",
+      "AMO",
+      "ORA"
+    ],
+    "word" : "AMORF"
+  },
+  {
+    "rs" : [
+      "ATLAS",
+      "SAL",
+      "SALA"
+    ],
+    "word" : "AATSL"
+  },
+  {
+    "rs" : [
+      "MULA",
+      "MULTA",
+      "MAL",
+      "TAL"
+    ],
+    "word" : "ATMUL"
+  },
+  {
+    "rs" : [
+      "ALA",
+      "ATAR",
+      "ALTA",
+      "LATA",
+      "ALTAR",
+      "RATA",
+      "TAL"
+    ],
+    "word" : "AATRL"
+  },
+  {
+    "rs" : [
+      "AIRE",
+      "IRA",
+      "FERIA",
+      "FEA",
+      "ERA"
+    ],
+    "word" : "AFRIE"
+  },
+  {
+    "rs" : [
+      "ÁREA",
+      "ÁRABE",
+      "ERA",
+      "BAR"
+    ],
+    "word" : "ARBEÁ"
+  },
+  {
+    "rs" : [
+      "PAR",
+      "ORA",
+      "PARO",
+      "ROPA",
+      "PURO",
+      "POR"
+    ],
+    "word" : "AORPU"
+  },
+  {
+    "rs" : [
+      "ORAL",
+      "ROL",
+      "BOLA",
+      "OBRA",
+      "OLA"
+    ],
+    "word" : "AORBL"
+  },
+  {
+    "rs" : [
+      "DEL",
+      "IDA",
+      "IDEA",
+      "IDEAL"
+    ],
+    "word" : "ADILE"
+  },
+  {
+    "rs" : [
+      "ARCA",
+      "CARA",
+      "CAL",
+      "ALA",
+      "CLARA",
+      "LACA"
+    ],
+    "word" : "AARLC"
+  },
+  {
+    "rs" : [
+      "PAR",
+      "MIRA",
+      "IRA",
+      "RIMA",
+      "MAR",
+      "IMPAR",
+      "PRIMA"
+    ],
+    "word" : "AMRIP"
+  },
+  {
+    "rs" : [
+      "AMA",
+      "GAMA",
+      "GANA",
+      "MANGA"
+    ],
+    "word" : "AAMNG"
+  },
+  {
+    "rs" : [
+      "VOS",
+      "SATO",
+      "VASTO",
+      "TOS",
+      "VASO"
+    ],
+    "word" : "ATVOS"
+  },
+  {
+    "rs" : [
+      "PENAL",
+      "PLAN",
+      "PENA",
+      "PAN",
+      "PANEL"
+    ],
+    "word" : "APNLE"
+  },
+  {
+    "rs" : [
+      "REO",
+      "FEO",
+      "REZO",
+      "FEROZ"
+    ],
+    "word" : "OFRZE"
+  },
+  {
+    "rs" : [
+      "REO",
+      "ORO",
+      "MERO",
+      "MORO",
+      "REMO"
+    ],
+    "word" : "OOMRE"
+  },
+  {
+    "rs" : [
+      "AIRE",
+      "IRA",
+      "REINA",
+      "ERA"
+    ],
+    "word" : "ARINE"
+  },
+  {
+    "rs" : [
+      "OCA",
+      "COSA",
+      "MOSCA",
+      "SACO",
+      "CASO",
+      "COMA",
+      "ASCO"
+    ],
+    "word" : "AMOSC"
+  },
+  {
+    "rs" : [
+      "VIUDA",
+      "IDA",
+      "VIDA",
+      "UVA"
+    ],
+    "word" : "AVDIU"
+  },
+  {
+    "rs" : [
+      "RECTA",
+      "ARTE",
+      "CAER",
+      "CATRE",
+      "CERA"
+    ],
+    "word" : "ATREC"
+  },
+  {
+    "rs" : [
+      "COLA",
+      "COL",
+      "FLACO",
+      "OCA"
+    ],
+    "word" : "AFOLC"
+  },
+  {
+    "rs" : [
+      "ACTO",
+      "TACO",
+      "TACTO",
+      "OCA"
+    ],
+    "word" : "ATTOC"
+  },
+  {
+    "rs" : [
+      "MANO",
+      "MONJA",
+      "ANO",
+      "AJO"
+    ],
+    "word" : "AMONJ"
+  },
+  {
+    "rs" : [
+      "AS",
+      "POS",
+      "PASO",
+      "OSA",
+      "SAPO",
+      "OS"
+    ],
+    "word" : "AOPS"
+  },
+  {
+    "rs" : [
+      "QUE",
+      "QUEJA",
+      "JA",
+      "JAQUE"
+    ],
+    "word" : "AJUEQ"
+  },
+  {
+    "rs" : [
+      "AMO",
+      "MALO",
+      "LOMA",
+      "MAL",
+      "ÁLAMO"
+    ],
+    "word" : "AMOLÁ"
+  },
+  {
+    "rs" : [
+      "REO",
+      "OLER",
+      "ROBLE",
+      "ROL"
+    ],
+    "word" : "ORBLE"
+  },
+  {
+    "rs" : [
+      "SOPA",
+      "PATO",
+      "APTO",
+      "SAPO",
+      "TOS",
+      "PASTO",
+      "POS",
+      "PASO"
+    ],
+    "word" : "AOTPS"
+  },
+  {
+    "rs" : [
+      "BAR",
+      "AYER",
+      "ERA",
+      "REY"
+    ],
+    "word" : "AYBRE"
+  },
+  {
+    "rs" : [
+      "COCA",
+      "AÑO",
+      "COÑAC",
+      "OCA"
+    ],
+    "word" : "AOÑCC"
+  },
+  {
+    "rs" : [
+      "SALA",
+      "ALBA",
+      "BALA",
+      "ALA",
+      "BALSA",
+      "SAL"
+    ],
+    "word" : "AABLS"
+  },
+  {
+    "rs" : [
+      "AMA",
+      "AMAR",
+      "AMOR",
+      "RAMA",
+      "ARMA",
+      "AMO",
+      "RAMO",
+      "AROMA"
+    ],
+    "word" : "AAMOR"
+  },
+  {
+    "rs" : [
+      "REO",
+      "ROCE",
+      "COBRE",
+      "ECO",
+      "CERO"
+    ],
+    "word" : "ORBEC"
+  },
+  {
+    "rs" : [
+      "TORO",
+      "TRONO",
+      "OTRO",
+      "TORNO",
+      "ORO",
+      "RON",
+      "TONO",
+      "ROTO"
+    ],
+    "word" : "OOTRN"
+  },
+  {
+    "rs" : [
+      "GRATO",
+      "GATO",
+      "TRAGO",
+      "RATO",
+      "GOTA"
+    ],
+    "word" : "AORTG"
+  },
+  {
+    "rs" : [
+      "CAL",
+      "LOCAL",
+      "CALLO",
+      "COL"
+    ],
+    "word" : "AOLLC"
+  },
+  {
+    "rs" : [
+      "MIO",
+      "IDO",
+      "MEDIO",
+      "MIEDO"
+    ],
+    "word" : "OMDIE"
+  },
+  {
+    "rs" : [
+      "NORTE",
+      "NIETO",
+      "RETO",
+      "TENOR",
+      "REINO"
+    ],
+    "word" : "OTRINE"
+  },
+  {
+    "rs" : [
+      "RON",
+      "PEOR",
+      "PERO",
+      "NEO",
+      "RENO"
+    ],
+    "word" : "ORPNE"
+  },
+  {
+    "rs" : [
+      "AMO",
+      "COMA",
+      "COPA",
+      "OCA",
+      "CAMPO"
+    ],
+    "word" : "AMOPC"
+  },
+  {
+    "rs" : [
+      "ORAL",
+      "ORA",
+      "LAGO",
+      "GOL"
+    ],
+    "word" : "AORGL"
+  },
+  {
+    "rs" : [
+      "DON",
+      "LINO",
+      "IDO",
+      "NIDO",
+      "LINDO"
+    ],
+    "word" : "ODINL"
+  },
+  {
+    "rs" : [
+      "LACA",
+      "CAL",
+      "LANA",
+      "ALA",
+      "CANAL"
+    ],
+    "word" : "AANLC"
+  },
+  {
+    "rs" : [
+      "FLOTA",
+      "OLA",
+      "TAL",
+      "ALTO"
+    ],
+    "word" : "ATFOL"
+  },
+  {
+    "rs" : [
+      "TREN",
+      "RETO",
+      "NEO",
+      "NETO",
+      "RENO",
+      "NORTE",
+      "RON"
+    ],
+    "word" : "OTRNE"
+  },
+  {
+    "rs" : [
+      "VELA",
+      "VALLE",
+      "VALE",
+      "AVE",
+      "LLAVE",
+      "ELLA",
+      "LEAL"
+    ],
+    "word" : "VALLE"
+  },
+  {
+    "rs" : [
+      "LACA",
+      "CALMA",
+      "LAMA",
+      "ALA",
+      "MAL",
+      "MALA"
+    ],
+    "word" : "AAMLC"
+  },
+  {
+    "rs" : [
+      "REO",
+      "OLER",
+      "RELOJ",
+      "ROL"
+    ],
+    "word" : "EORLJ"
+  },
+  {
+    "rs" : [
+      "RARO",
+      "OBRAR",
+      "OBRA",
+      "BARRO",
+      "RABO",
+      "ORA",
+      "BAR"
+    ],
+    "word" : "AORRB"
+  },
+  {
+    "rs" : [
+      "REO",
+      "MERO",
+      "MOVER",
+      "VER"
+    ],
+    "word" : "VMROE"
+  },
+  {
+    "rs" : [
+      "GOTA",
+      "GASTO",
+      "SOGA",
+      "GATO",
+      "TOS",
+      "GAS",
+      "SATO"
+    ],
+    "word" : "AOTGS"
+  },
+  {
+    "rs" : [
+      "EGO",
+      "PELO",
+      "GOLPE",
+      "GEL",
+      "GOL"
+    ],
+    "word" : "OPGLE"
+  },
+  {
+    "rs" : [
+      "LORO",
+      "ORO",
+      "COL",
+      "OLOR",
+      "LOCO"
+    ],
+    "word" : "OORLC"
+  },
+  {
+    "rs" : [
+      "ESO",
+      "ESTO",
+      "OESTE",
+      "ESE"
+    ],
+    "word" : "OTSEE"
+  },
+  {
+    "rs" : [
+      "AMOR",
+      "OBRA",
+      "BROMA",
+      "MAR",
+      "RAMO",
+      "RABO",
+      "ORA"
+    ],
+    "word" : "AMOBR"
+  },
+  {
+    "rs" : [
+      "CABRA",
+      "ABRA",
+      "ARCA",
+      "CARA"
+    ],
+    "word" : "AARBC"
+  },
+  {
+    "rs" : [
+      "RICA",
+      "TAC",
+      "IRA",
+      "TIRA",
+      "CITAR",
+      "CITA"
+    ],
+    "word" : "ATRIC"
+  },
+  {
+    "rs" : [
+      "TIPO",
+      "LOTO",
+      "PITO",
+      "PILOTO"
+    ],
+    "word" : "OOTIPL"
+  },
+  {
+    "rs" : [
+      "TOTAL",
+      "OLA",
+      "TAL",
+      "ALTO"
+    ],
+    "word" : "ATTOL"
+  },
+  {
+    "rs" : [
+      "PESAR",
+      "PESA"
+    ],
+    "word" : "ARPES"
+  },
+  {
+    "rs" : [
+      "AY",
+      "YA",
+      "CERA",
+      "ERA",
+      "CAER",
+      "YACER",
+      "EY"
+    ],
+    "word" : "AYREC"
+  },
+  {
+    "rs" : [
+      "SEIS",
+      "SIEN",
+      "SESIÓN",
+      "SIN"
+    ],
+    "word" : "NIÓSSE"
+  },
+  {
+    "rs" : [
+      "LADO",
+      "ADULTO",
+      "AUTO",
+      "LUTO",
+      "TAL"
+    ],
+    "word" : "AODTUL"
+  },
+  {
+    "rs" : [
+      "CENA",
+      "NADA",
+      "CADENA",
+      "CADA"
+    ],
+    "word" : "AADNEC"
+  },
+  {
+    "rs" : [
+      "RUSO",
+      "USO",
+      "CURSO",
+      "SUR"
+    ],
+    "word" : "ORUSC"
+  },
+  {
+    "rs" : [
+      "MIRA",
+      "MAR",
+      "RIMA",
+      "IRA",
+      "FIRMA"
+    ],
+    "word" : "AMRIF"
+  },
+  {
+    "rs" : [
+      "PEOR",
+      "PERO",
+      "TIRO",
+      "PITO",
+      "RETO",
+      "PERITO"
+    ],
+    "word" : "OTRIPE"
+  },
+  {
+    "rs" : [
+      "ORA",
+      "BRAVO",
+      "OBRA",
+      "BAR"
+    ],
+    "word" : "AVRBO"
+  },
+  {
+    "rs" : [
+      "DISCO",
+      "IDO",
+      "DOS",
+      "DIOS"
+    ],
+    "word" : "ODISC"
+  },
+  {
+    "rs" : [
+      "GRACIA",
+      "CAGAR",
+      "ARCA",
+      "CARA"
+    ],
+    "word" : "AARIGC"
+  },
+  {
+    "rs" : [
+      "PLACA",
+      "CAL",
+      "PALA",
+      "ALA",
+      "CAPA",
+      "LACA"
+    ],
+    "word" : "AAPLC"
+  },
+  {
+    "rs" : [
+      "MUSEO",
+      "MES",
+      "SUMO"
+    ],
+    "word" : "OMUSE"
+  },
+  {
+    "rs" : [
+      "EGO",
+      "CIEGO",
+      "ECO",
+      "GOCE"
+    ],
+    "word" : "OIGEC"
+  },
+  {
+    "rs" : [
+      "LIGA",
+      "GRIAL",
+      "LIGAR",
+      "IRA",
+      "LIRA",
+      "GIRA"
+    ],
+    "word" : "ARIGL"
+  },
+  {
+    "rs" : [
+      "AVE",
+      "ANTE",
+      "VENA",
+      "NAVE",
+      "VENTA",
+      "TAN"
+    ],
+    "word" : "VATNE"
+  },
+  {
+    "rs" : [
+      "HABLA",
+      "ALBA",
+      "BALA",
+      "HABLAR",
+      "ABRA"
+    ],
+    "word" : "HAARBL"
+  },
+  {
+    "rs" : [
+      "TOPE",
+      "LOTE",
+      "PELO",
+      "TEMPLO",
+      "MOTEL"
+    ],
+    "word" : "OMTPLE"
+  },
+  {
+    "rs" : [
+      "BAR",
+      "SOBRA",
+      "RAS",
+      "RASO",
+      "SABOR",
+      "ROSA"
+    ],
+    "word" : "AORBS"
+  },
+  {
+    "rs" : [
+      "CREMA",
+      "CAER",
+      "MAR",
+      "REMA",
+      "CERA",
+      "ERA"
+    ],
+    "word" : "AMREC"
+  },
+  {
+    "rs" : [
+      "PASE",
+      "PESA",
+      "ESA",
+      "ASÍ",
+      "PAÍS",
+      "ESPÍA"
+    ],
+    "word" : "AÍPES"
+  },
+  {
+    "rs" : [
+      "RAN",
+      "GANAR",
+      "GANA",
+      "GRANJA"
+    ],
+    "word" : "AARNGJ"
+  }
+]

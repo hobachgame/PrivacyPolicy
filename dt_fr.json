@@ -1,0 +1,5410 @@
+[
+  {
+    "rs" : [
+      "POU",
+      "OU",
+      "PU"
+    ],
+    "word" : "OPU"
+  },
+  {
+    "rs" : [
+      "DE",
+      "EN",
+      "NE"
+    ],
+    "word" : "DNE"
+  },
+  {
+    "rs" : [
+      "ONT",
+      "TON",
+      "ON"
+    ],
+    "word" : "NOT"
+  },
+  {
+    "rs" : [
+      "DO",
+      "OU",
+      "DU"
+    ],
+    "word" : "ODU"
+  },
+  {
+    "rs" : [
+      "RIT",
+      "TIR",
+      "RI"
+    ],
+    "word" : "IRT"
+  },
+  {
+    "rs" : [
+      "TE",
+      "ET",
+      "NE",
+      "EN"
+    ],
+    "word" : "ENT"
+  },
+  {
+    "rs" : [
+      "AI",
+      "AIR",
+      "IRA",
+      "RI"
+    ],
+    "word" : "IRA"
+  },
+  {
+    "rs" : [
+      "CITÉ",
+      "CI"
+    ],
+    "word" : "TÉIC"
+  },
+  {
+    "rs" : [
+      "BU",
+      "BOUE",
+      "OU",
+      "EU"
+    ],
+    "word" : "OBUE"
+  },
+  {
+    "rs" : [
+      "DO",
+      "DONT",
+      "ON"
+    ],
+    "word" : "OTDN"
+  },
+  {
+    "rs" : [
+      "LA",
+      "HALL"
+    ],
+    "word" : "AHLL"
+  },
+  {
+    "rs" : [
+      "OS",
+      "SON",
+      "ON",
+      "NOS"
+    ],
+    "word" : "NSO"
+  },
+  {
+    "rs" : [
+      "UN",
+      "UNS",
+      "NUS",
+      "SU"
+    ],
+    "word" : "NSU"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "DE",
+      "DU",
+      "DUR",
+      "EU"
+    ],
+    "word" : "RDUE"
+  },
+  {
+    "rs" : [
+      "CES",
+      "CE",
+      "ES",
+      "SE",
+      "SEC"
+    ],
+    "word" : "CSE"
+  },
+  {
+    "rs" : [
+      "ANGE",
+      "NAGE",
+      "AN",
+      "NE",
+      "EN"
+    ],
+    "word" : "ANEG"
+  },
+  {
+    "rs" : [
+      "RIT",
+      "TRI",
+      "RI",
+      "TIR"
+    ],
+    "word" : "IRT"
+  },
+  {
+    "rs" : [
+      "DO",
+      "ROND",
+      "NORD",
+      "ON"
+    ],
+    "word" : "ORDN"
+  },
+  {
+    "rs" : [
+      "JOUE",
+      "JE",
+      "OU",
+      "JEU",
+      "EU"
+    ],
+    "word" : "OUEJ"
+  },
+  {
+    "rs" : [
+      "EN",
+      "ZONE",
+      "ON",
+      "NE",
+      "ONZE"
+    ],
+    "word" : "ONZE"
+  },
+  {
+    "rs" : [
+      "PNEU",
+      "UNE",
+      "PEU",
+      "PUE",
+      "NUE"
+    ],
+    "word" : "PUEN"
+  },
+  {
+    "rs" : [
+      "TES",
+      "EST",
+      "SITE"
+    ],
+    "word" : "TIES"
+  },
+  {
+    "rs" : [
+      "CES",
+      "SUE",
+      "CE",
+      "SE",
+      "SEC"
+    ],
+    "word" : "EUSC"
+  },
+  {
+    "rs" : [
+      "SON",
+      "SOU",
+      "UNS",
+      "NOUS",
+      "NOS"
+    ],
+    "word" : "OUSN"
+  },
+  {
+    "rs" : [
+      "TA",
+      "PART",
+      "ART",
+      "PAR"
+    ],
+    "word" : "ATRP"
+  },
+  {
+    "rs" : [
+      "TON",
+      "VONT",
+      "ONT"
+    ],
+    "word" : "VOTN"
+  },
+  {
+    "rs" : [
+      "DU",
+      "DURS",
+      "US",
+      "DUR",
+      "SU"
+    ],
+    "word" : "RDUS"
+  },
+  {
+    "rs" : [
+      "ET",
+      "TUE",
+      "TU",
+      "PEU",
+      "PUE",
+      "EU"
+    ],
+    "word" : "TPUE"
+  },
+  {
+    "rs" : [
+      "SEUL",
+      "EUS",
+      "LES",
+      "SEL",
+      "SUE"
+    ],
+    "word" : "EUSL"
+  },
+  {
+    "rs" : [
+      "AI",
+      "AIR",
+      "VA",
+      "IRA",
+      "RAVI",
+      "VRAI"
+    ],
+    "word" : "AVRI"
+  },
+  {
+    "rs" : [
+      "MOT",
+      "NOM",
+      "MON",
+      "TON",
+      "MONT",
+      "ONT"
+    ],
+    "word" : "OTMN"
+  },
+  {
+    "rs" : [
+      "ARTS",
+      "RATS",
+      "STAR",
+      "ART",
+      "TAS"
+    ],
+    "word" : "ATRS"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "DU",
+      "RUDE",
+      "DURE",
+      "DUR",
+      "DE"
+    ],
+    "word" : "RDUE"
+  },
+  {
+    "rs" : [
+      "TUÉ",
+      "NUIT",
+      "UNITÉ"
+    ],
+    "word" : "TÉIUN"
+  },
+  {
+    "rs" : [
+      "LIÉ",
+      "AIDÉ",
+      "DÉLAI"
+    ],
+    "word" : "ADIÉL"
+  },
+  {
+    "rs" : [
+      "VAS",
+      "SON",
+      "VOS",
+      "SAVON",
+      "ANS",
+      "VAN"
+    ],
+    "word" : "VAONS"
+  },
+  {
+    "rs" : [
+      "VER",
+      "LAVE",
+      "LAVER"
+    ],
+    "word" : "AVRLE"
+  },
+  {
+    "rs" : [
+      "RIVER",
+      "VER",
+      "VIE",
+      "RIRE"
+    ],
+    "word" : "VRRIE"
+  },
+  {
+    "rs" : [
+      "PIRES",
+      "PIRE",
+      "PRIE"
+    ],
+    "word" : "RIPSE"
+  },
+  {
+    "rs" : [
+      "PRO",
+      "POT",
+      "PORT",
+      "TROP",
+      "TOP"
+    ],
+    "word" : "OTRP"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "IRA",
+      "AIE",
+      "SERAI",
+      "RIS"
+    ],
+    "word" : "ARISE"
+  },
+  {
+    "rs" : [
+      "SOU",
+      "SORT",
+      "TOUR",
+      "TROUS",
+      "OURS",
+      "TROU"
+    ],
+    "word" : "OTRUS"
+  },
+  {
+    "rs" : [
+      "MAI",
+      "AMI",
+      "GAMIN",
+      "AGI"
+    ],
+    "word" : "AMING"
+  },
+  {
+    "rs" : [
+      "PARS",
+      "PAS",
+      "PRÉS",
+      "PAR"
+    ],
+    "word" : "ARÉPS"
+  },
+  {
+    "rs" : [
+      "TYPES",
+      "TYPE",
+      "TES",
+      "EST",
+      "PSY",
+      "SEPT"
+    ],
+    "word" : "TYPES"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "IRA",
+      "ROI",
+      "SOI"
+    ],
+    "word" : "AORIS"
+  },
+  {
+    "rs" : [
+      "ROI",
+      "OBÉIR"
+    ],
+    "word" : "ORIBÉ"
+  },
+  {
+    "rs" : [
+      "HAUT",
+      "SAUT",
+      "TAS",
+      "HAUTS"
+    ],
+    "word" : "ATHUS"
+  },
+  {
+    "rs" : [
+      "BU",
+      "EAU",
+      "AUBE",
+      "AU",
+      "BEAU",
+      "EU"
+    ],
+    "word" : "ABUE"
+  },
+  {
+    "rs" : [
+      "TUE",
+      "PEU",
+      "PUE",
+      "PEUT"
+    ],
+    "word" : "TPUE"
+  },
+  {
+    "rs" : [
+      "BRISE",
+      "SIRE"
+    ],
+    "word" : "RIBES"
+  },
+  {
+    "rs" : [
+      "LUI",
+      "CIEL",
+      "LIEU",
+      "CELUI"
+    ],
+    "word" : "EIULC"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "JEU",
+      "JURER"
+    ],
+    "word" : "RRUEJ"
+  },
+  {
+    "rs" : [
+      "ARC",
+      "RACE",
+      "CAR",
+      "CET",
+      "ART",
+      "ACTE",
+      "TRACE"
+    ],
+    "word" : "ATREC"
+  },
+  {
+    "rs" : [
+      "RATE",
+      "PAR",
+      "PART",
+      "TARE",
+      "PARTE",
+      "ART",
+      "LIEU"
+    ],
+    "word" : "IEARTPLU"
+  },
+  {
+    "rs" : [
+      "STAR",
+      "ART",
+      "RATS",
+      "ARTS"
+    ],
+    "word" : "ATRS"
+  },
+  {
+    "rs" : [
+      "CAGE",
+      "RACE",
+      "GARCE",
+      "RAGE",
+      "GARE"
+    ],
+    "word" : "ARGEC"
+  },
+  {
+    "rs" : [
+      "CHER",
+      "CRIE",
+      "CRI",
+      "HIER"
+    ],
+    "word" : "HRIEC"
+  },
+  {
+    "rs" : [
+      "PRIE",
+      "MER",
+      "RIME",
+      "PIRE",
+      "PRIME"
+    ],
+    "word" : "MRIPE"
+  },
+  {
+    "rs" : [
+      "VIN",
+      "EN",
+      "NI",
+      "NE",
+      "VIE",
+      "ENVIE"
+    ],
+    "word" : "VINEE"
+  },
+  {
+    "rs" : [
+      "AI",
+      "VIVRA",
+      "VA",
+      "RAVI",
+      "VRAI"
+    ],
+    "word" : "AVVRI"
+  },
+  {
+    "rs" : [
+      "ILS",
+      "LAS",
+      "LIS"
+    ],
+    "word" : "AISL"
+  },
+  {
+    "rs" : [
+      "SOIR",
+      "CROIS",
+      "CRIS",
+      "ROI",
+      "SOI",
+      "ROIS"
+    ],
+    "word" : "ORISC"
+  },
+  {
+    "rs" : [
+      "NAGE",
+      "ANGE",
+      "NUAGE"
+    ],
+    "word" : "AGUEN"
+  },
+  {
+    "rs" : [
+      "LIS",
+      "PAS",
+      "PLAIS",
+      "PIS",
+      "ILS"
+    ],
+    "word" : "AIPSL"
+  },
+  {
+    "rs" : [
+      "RARE",
+      "VA",
+      "VER",
+      "VERRA"
+    ],
+    "word" : "AVRRE"
+  },
+  {
+    "rs" : [
+      "SAC",
+      "EAU",
+      "SEAU",
+      "CAUSE",
+      "CASE",
+      "SAUCE"
+    ],
+    "word" : "ASUEC"
+  },
+  {
+    "rs" : [
+      "TE",
+      "ET",
+      "SERT",
+      "TES",
+      "EST"
+    ],
+    "word" : "TRSE"
+  },
+  {
+    "rs" : [
+      "AIE",
+      "AIDE",
+      "ACIDE"
+    ],
+    "word" : "ADIEC"
+  },
+  {
+    "rs" : [
+      "ANS",
+      "TAS",
+      "SATAN"
+    ],
+    "word" : "AATNS"
+  },
+  {
+    "rs" : [
+      "MARI",
+      "AIMER",
+      "MAIRE",
+      "AMIE",
+      "ARME"
+    ],
+    "word" : "AMRIE"
+  },
+  {
+    "rs" : [
+      "SOBRE",
+      "ROSE",
+      "OSE",
+      "ROBE"
+    ],
+    "word" : "ORBSE"
+  },
+  {
+    "rs" : [
+      "POSTE",
+      "POTE",
+      "TES",
+      "EST",
+      "SEPT",
+      "POTES"
+    ],
+    "word" : "OTPES"
+  },
+  {
+    "rs" : [
+      "ORO",
+      "POSE",
+      "ROSE",
+      "POSER",
+      "OSE",
+      "REPOS"
+    ],
+    "word" : "OORPES"
+  },
+  {
+    "rs" : [
+      "UN",
+      "EUE",
+      "JEUNE",
+      "NE",
+      "EN"
+    ],
+    "word" : "NUEEJ"
+  },
+  {
+    "rs" : [
+      "BRUTE",
+      "TUBE",
+      "TUER",
+      "BUTER"
+    ],
+    "word" : "TRBUE"
+  },
+  {
+    "rs" : [
+      "VIES",
+      "VIE",
+      "VIS",
+      "ELVIS"
+    ],
+    "word" : "EVISL"
+  },
+  {
+    "rs" : [
+      "LOU",
+      "SOU",
+      "PLU",
+      "SOL",
+      "POULS",
+      "LOUPS"
+    ],
+    "word" : "OPULS"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "AIDE",
+      "AIE",
+      "DIRA",
+      "RAIDE",
+      "DIRE"
+    ],
+    "word" : "ADIRE"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "TUE",
+      "EUT",
+      "VERTU"
+    ],
+    "word" : "VTRUE"
+  },
+  {
+    "rs" : [
+      "BEC",
+      "BEL",
+      "CIBLE"
+    ],
+    "word" : "LIBEC"
+  },
+  {
+    "rs" : [
+      "AI",
+      "DO",
+      "DIRA",
+      "RADIO"
+    ],
+    "word" : "AORID"
+  },
+  {
+    "rs" : [
+      "CAR",
+      "FACE",
+      "RACE",
+      "FERA",
+      "FARCE"
+    ],
+    "word" : "AFREC"
+  },
+  {
+    "rs" : [
+      "SANG",
+      "GANG",
+      "GANGS",
+      "ANS"
+    ],
+    "word" : "ANSGG"
+  },
+  {
+    "rs" : [
+      "MER",
+      "CRIME",
+      "MERCI"
+    ],
+    "word" : "MRIEC"
+  },
+  {
+    "rs" : [
+      "PAR",
+      "AIR",
+      "IRA",
+      "AIE",
+      "PARIE",
+      "PAIRE"
+    ],
+    "word" : "ARIPE"
+  },
+  {
+    "rs" : [
+      "VIN",
+      "IVRE",
+      "VENIR",
+      "VER",
+      "VIE",
+      "RIEN"
+    ],
+    "word" : "VRINE"
+  },
+  {
+    "rs" : [
+      "CLÉ",
+      "COL",
+      "COLLÉ",
+      "LÉO"
+    ],
+    "word" : "OÉLLC"
+  },
+  {
+    "rs" : [
+      "MER",
+      "RARE",
+      "MARRE",
+      "ARME"
+    ],
+    "word" : "AMRRE"
+  },
+  {
+    "rs" : [
+      "AIMÉE",
+      "AMI",
+      "AIE",
+      "AMIE",
+      "MAI"
+    ],
+    "word" : "AMÉIE"
+  },
+  {
+    "rs" : [
+      "TES",
+      "EST",
+      "SEPT",
+      "PESTE"
+    ],
+    "word" : "TPSEE"
+  },
+  {
+    "rs" : [
+      "SUJET",
+      "SUE",
+      "EUT",
+      "JEU",
+      "EST",
+      "TES",
+      "JUSTE"
+    ],
+    "word" : "STUEJ"
+  },
+  {
+    "rs" : [
+      "AIMER",
+      "AIR",
+      "AMI",
+      "AIE",
+      "IRA",
+      "MARIE"
+    ],
+    "word" : "AMRIE"
+  },
+  {
+    "rs" : [
+      "EUROS",
+      "ROSE",
+      "ROUES",
+      "ROUE",
+      "RUES"
+    ],
+    "word" : "ORUES"
+  },
+  {
+    "rs" : [
+      "AURA",
+      "RAS",
+      "USA",
+      "SAURA",
+      "SUR"
+    ],
+    "word" : "AARUS"
+  },
+  {
+    "rs" : [
+      "GENS",
+      "SEIN",
+      "SIGNE",
+      "SINGE",
+      "SIEN",
+      "GIN"
+    ],
+    "word" : "SIGNE"
+  },
+  {
+    "rs" : [
+      "SOIR",
+      "SOIRS",
+      "ROI",
+      "SOI"
+    ],
+    "word" : "ORISS"
+  },
+  {
+    "rs" : [
+      "VESTE",
+      "TES",
+      "EST",
+      "STEVE"
+    ],
+    "word" : "VTSEE"
+  },
+  {
+    "rs" : [
+      "MIEN",
+      "MISE",
+      "SEIN",
+      "MINE",
+      "MIENS"
+    ],
+    "word" : "MINES"
+  },
+  {
+    "rs" : [
+      "LOI",
+      "ILS",
+      "LOIS",
+      "JOLI",
+      "JOLIS",
+      "SOL"
+    ],
+    "word" : "OSILJ"
+  },
+  {
+    "rs" : [
+      "ILS",
+      "LOIN",
+      "LOIS",
+      "SOIN",
+      "LIONS",
+      "LION"
+    ],
+    "word" : "OINLS"
+  },
+  {
+    "rs" : [
+      "IVRE",
+      "VIE",
+      "RI",
+      "HIVER"
+    ],
+    "word" : "VHRIE"
+  },
+  {
+    "rs" : [
+      "ANS",
+      "TAS",
+      "SATAN"
+    ],
+    "word" : "AATNS"
+  },
+  {
+    "rs" : [
+      "AIDE",
+      "DIRA",
+      "AIDER",
+      "RAIDE",
+      "DIRE"
+    ],
+    "word" : "ADIRE"
+  },
+  {
+    "rs" : [
+      "EUS",
+      "SUE",
+      "EUT",
+      "TES",
+      "TUE",
+      "EST"
+    ],
+    "word" : "TUSE"
+  },
+  {
+    "rs" : [
+      "IMAGE",
+      "AMI",
+      "AIE",
+      "AIME",
+      "AMIE",
+      "MAI"
+    ],
+    "word" : "AMIGE"
+  },
+  {
+    "rs" : [
+      "RARES",
+      "RARE",
+      "RASER",
+      "SERA"
+    ],
+    "word" : "ARRSE"
+  },
+  {
+    "rs" : [
+      "ME",
+      "MA",
+      "AMEN",
+      "AN",
+      "NE",
+      "EN"
+    ],
+    "word" : "AMNE"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "EUS",
+      "SUE",
+      "RUES",
+      "SUR"
+    ],
+    "word" : "RUSE"
+  },
+  {
+    "rs" : [
+      "SON",
+      "MOI",
+      "SOI",
+      "MON",
+      "MOINS",
+      "MOIS",
+      "SIMON"
+    ],
+    "word" : "OMINS"
+  },
+  {
+    "rs" : [
+      "SAC",
+      "CAS",
+      "USA",
+      "CAUSÉ"
+    ],
+    "word" : "AÉUSC"
+  },
+  {
+    "rs" : [
+      "AN",
+      "SA",
+      "GANGS",
+      "ANS",
+      "GANG",
+      "AS",
+      "SANG"
+    ],
+    "word" : "AGGNS"
+  },
+  {
+    "rs" : [
+      "AMIS",
+      "MAIS",
+      "AMIES",
+      "AISE",
+      "SAM",
+      "AIES",
+      "AMIE",
+      "AIME"
+    ],
+    "word" : "AMIES"
+  },
+  {
+    "rs" : [
+      "AST",
+      "AIES",
+      "AIE",
+      "AISE",
+      "AIT",
+      "SITE"
+    ],
+    "word" : "ATIES"
+  },
+  {
+    "rs" : [
+      "AMI",
+      "AIE",
+      "AIME",
+      "AMIE"
+    ],
+    "word" : "AMIE"
+  },
+  {
+    "rs" : [
+      "ME",
+      "MA",
+      "MER",
+      "ARMÉ",
+      "MARÉE",
+      "ARME"
+    ],
+    "word" : "AMÉRE"
+  },
+  {
+    "rs" : [
+      "RIS",
+      "RIT",
+      "TIR"
+    ],
+    "word" : "TRIS"
+  },
+  {
+    "rs" : [
+      "FAIRE",
+      "AIE",
+      "AIR",
+      "IRA",
+      "FER",
+      "FERA",
+      "FIER"
+    ],
+    "word" : "AFRIE"
+  },
+  {
+    "rs" : [
+      "ELSA",
+      "SALE",
+      "AIES",
+      "AILE",
+      "AISE",
+      "AILES"
+    ],
+    "word" : "ASILE"
+  },
+  {
+    "rs" : [
+      "TOURS",
+      "SOU",
+      "TROUS",
+      "OUT",
+      "SUR"
+    ],
+    "word" : "OTRUS"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "TROU",
+      "OUTRE",
+      "TOUR",
+      "TUE",
+      "TUER",
+      "ROUTE",
+      "ROUE"
+    ],
+    "word" : "OTRUE"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "SEC",
+      "SUCER",
+      "SUE",
+      "SUCRE",
+      "EUS",
+      "CRU"
+    ],
+    "word" : "SRUEC"
+  },
+  {
+    "rs" : [
+      "JOIE",
+      "JOLI",
+      "LOI",
+      "JOLIE"
+    ],
+    "word" : "EOILJ"
+  },
+  {
+    "rs" : [
+      "PLEUT",
+      "TUE",
+      "PEU",
+      "TEL",
+      "PUE",
+      "PEUT"
+    ],
+    "word" : "TPULE"
+  },
+  {
+    "rs" : [
+      "ARME",
+      "MER",
+      "ARMES",
+      "MES",
+      "SERA"
+    ],
+    "word" : "AMRSE"
+  },
+  {
+    "rs" : [
+      "AIMER",
+      "AIE",
+      "MER",
+      "MAIRE",
+      "IRA",
+      "MARIE",
+      "AMIE",
+      "MARI"
+    ],
+    "word" : "AMRIE"
+  },
+  {
+    "rs" : [
+      "PÉRES",
+      "PRÉS",
+      "PÉRE",
+      "SE",
+      "ÉRE"
+    ],
+    "word" : "RÉPSE"
+  },
+  {
+    "rs" : [
+      "IVRE",
+      "VER",
+      "VIE",
+      "LIRE",
+      "LIVRE"
+    ],
+    "word" : "VRILE"
+  },
+  {
+    "rs" : [
+      "PART",
+      "ART",
+      "RAT",
+      "PAR"
+    ],
+    "word" : "ATRP"
+  },
+  {
+    "rs" : [
+      "LOU",
+      "LOUER",
+      "ROUE",
+      "LEUR",
+      "REU"
+    ],
+    "word" : "ORULE"
+  },
+  {
+    "rs" : [
+      "MINE",
+      "MIEN",
+      "MENS",
+      "SIEN",
+      "MISE",
+      "SEIN",
+      "MIENS",
+      "MINES"
+    ],
+    "word" : "MINSE"
+  },
+  {
+    "rs" : [
+      "LES",
+      "SEL",
+      "SELLE",
+      "ELLES"
+    ],
+    "word" : "SLLEE"
+  },
+  {
+    "rs" : [
+      "FEU",
+      "LOU",
+      "FOU",
+      "FOULE"
+    ],
+    "word" : "OFULE"
+  },
+  {
+    "rs" : [
+      "LAC",
+      "BAL",
+      "CAL",
+      "BLANC",
+      "BANC",
+      "CLAN"
+    ],
+    "word" : "ABNLC"
+  },
+  {
+    "rs" : [
+      "TIEN",
+      "SEIN",
+      "TES",
+      "EST",
+      "SIEN",
+      "SENTI"
+    ],
+    "word" : "TINES"
+  },
+  {
+    "rs" : [
+      "ANGLE",
+      "ANGE",
+      "NAGE",
+      "AN",
+      "LA"
+    ],
+    "word" : "AGNLE"
+  },
+  {
+    "rs" : [
+      "NOM",
+      "MON",
+      "MOINE",
+      "MOI"
+    ],
+    "word" : "OMINE"
+  },
+  {
+    "rs" : [
+      "SEAU",
+      "EUS",
+      "SUE",
+      "VASE",
+      "SAUVE",
+      "VUES"
+    ],
+    "word" : "VAUES"
+  },
+  {
+    "rs" : [
+      "COU",
+      "CE",
+      "PEU",
+      "POUCE",
+      "COUPE",
+      "PUE"
+    ],
+    "word" : "OPUEC"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "TUE",
+      "EUT",
+      "VUE",
+      "VERTU"
+    ],
+    "word" : "VTRUE"
+  },
+  {
+    "rs" : [
+      "AIRS",
+      "IRAI",
+      "IRAS",
+      "IRAIS"
+    ],
+    "word" : "ARIIS"
+  },
+  {
+    "rs" : [
+      "VIE",
+      "RIRE",
+      "RIVER",
+      "VER",
+      "VIRER",
+      "VIRE",
+      "IVRE"
+    ],
+    "word" : "VRRIE"
+  },
+  {
+    "rs" : [
+      "EUE",
+      "NEVEU",
+      "NUE",
+      "UNE",
+      "VUE",
+      "VENUE"
+    ],
+    "word" : "VUNEE"
+  },
+  {
+    "rs" : [
+      "NÉS",
+      "SÉNAT",
+      "ANS",
+      "TAS",
+      "SANTÉ"
+    ],
+    "word" : "ATÉNS"
+  },
+  {
+    "rs" : [
+      "OURS",
+      "RUES",
+      "ROSE",
+      "ROUES",
+      "ROUE",
+      "EUROS"
+    ],
+    "word" : "ORUES"
+  },
+  {
+    "rs" : [
+      "BUT",
+      "RUE",
+      "TUE",
+      "EUT",
+      "BRUTE",
+      "BUTER"
+    ],
+    "word" : "TRBUE"
+  },
+  {
+    "rs" : [
+      "JOIE",
+      "JOLI",
+      "LOI",
+      "JOLIE"
+    ],
+    "word" : "EOILJ"
+  },
+  {
+    "rs" : [
+      "TES",
+      "AISE",
+      "AIE",
+      "EST",
+      "AIT",
+      "SAIT"
+    ],
+    "word" : "ATIES"
+  },
+  {
+    "rs" : [
+      "GENS",
+      "SEIN",
+      "SIEN",
+      "SINGE",
+      "GIN"
+    ],
+    "word" : "SIGNE"
+  },
+  {
+    "rs" : [
+      "TES",
+      "TOP",
+      "POT",
+      "POSTE",
+      "EST",
+      "POTES"
+    ],
+    "word" : "OTPES"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "TROU",
+      "OUTRE",
+      "TOUR",
+      "TUER",
+      "ROUTE",
+      "ROUE"
+    ],
+    "word" : "OTRUE"
+  },
+  {
+    "rs" : [
+      "DIT",
+      "DOIT",
+      "DROIT",
+      "DORT",
+      "TOI"
+    ],
+    "word" : "OTRID"
+  },
+  {
+    "rs" : [
+      "REND",
+      "ROND",
+      "RONDE",
+      "NORD"
+    ],
+    "word" : "ORDNE"
+  },
+  {
+    "rs" : [
+      "RAGE",
+      "NAGER",
+      "ANGE",
+      "GARE",
+      "NE",
+      "NAGE",
+      "RANGE"
+    ],
+    "word" : "ARGNE"
+  },
+  {
+    "rs" : [
+      "GARE",
+      "RAGE",
+      "GARDE",
+      "EDGAR"
+    ],
+    "word" : "ARDGE"
+  },
+  {
+    "rs" : [
+      "AIE",
+      "SAM",
+      "AISE",
+      "AMI",
+      "AMIE",
+      "MES",
+      "AIME"
+    ],
+    "word" : "AMIES"
+  },
+  {
+    "rs" : [
+      "AIMER",
+      "AIE",
+      "AIR",
+      "MAI",
+      "MAIRE",
+      "MARIE",
+      "AMI"
+    ],
+    "word" : "AMRIE"
+  },
+  {
+    "rs" : [
+      "TES",
+      "EST",
+      "TAS",
+      "STEAK"
+    ],
+    "word" : "ATKSE"
+  },
+  {
+    "rs" : [
+      "EU",
+      "PU",
+      "PIQUE",
+      "QUE"
+    ],
+    "word" : "PIUEQ"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "AIR",
+      "IRA",
+      "ART",
+      "AIT",
+      "TIR"
+    ],
+    "word" : "ATRI"
+  },
+  {
+    "rs" : [
+      "MINE",
+      "MIEN",
+      "MENS",
+      "SIEN",
+      "MISE",
+      "SEIN",
+      "MIENS",
+      "MINES"
+    ],
+    "word" : "MINSE"
+  },
+  {
+    "rs" : [
+      "EU",
+      "LEUR",
+      "LU",
+      "OR",
+      "LOUER",
+      "ROULE",
+      "ROUE"
+    ],
+    "word" : "ORULE"
+  },
+  {
+    "rs" : [
+      "SEPT",
+      "POSE",
+      "POTE",
+      "STOP",
+      "TOP",
+      "POTES",
+      "POSTE"
+    ],
+    "word" : "OTPES"
+  },
+  {
+    "rs" : [
+      "FOIE",
+      "FIL",
+      "FILE",
+      "FOLIE",
+      "LOI",
+      "FOI"
+    ],
+    "word" : "OFILE"
+  },
+  {
+    "rs" : [
+      "VIN",
+      "VEINE",
+      "VIE",
+      "ENVIE"
+    ],
+    "word" : "VINEE"
+  },
+  {
+    "rs" : [
+      "FLIC",
+      "CI",
+      "SI",
+      "FILS",
+      "FLICS",
+      "IL"
+    ],
+    "word" : "LFISC"
+  },
+  {
+    "rs" : [
+      "FUSIL",
+      "FIL",
+      "FUI",
+      "LIS",
+      "ILS",
+      "LUI",
+      "FILS"
+    ],
+    "word" : "FIULS"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "SUE",
+      "SUEUR",
+      "SUR"
+    ],
+    "word" : "RUUSE"
+  },
+  {
+    "rs" : [
+      "VAS",
+      "AVIS",
+      "VAIS",
+      "VIS",
+      "DIS"
+    ],
+    "word" : "AVDIS"
+  },
+  {
+    "rs" : [
+      "ROMPRE",
+      "MER",
+      "PRO",
+      "ROME"
+    ],
+    "word" : "OMRRPE"
+  },
+  {
+    "rs" : [
+      "TES",
+      "MER",
+      "MES",
+      "TERMES",
+      "EST",
+      "MET"
+    ],
+    "word" : "MRTEES"
+  },
+  {
+    "rs" : [
+      "GRANGE",
+      "RAGE",
+      "GAGNER",
+      "RANG",
+      "ANGE",
+      "GARE",
+      "GANG"
+    ],
+    "word" : "ARGGNE"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "PARTEZ",
+      "PAR",
+      "PART",
+      "TAPE",
+      "PARTE",
+      "ART"
+    ],
+    "word" : "ATRPZE"
+  },
+  {
+    "rs" : [
+      "TE",
+      "ET",
+      "ÈRE",
+      "PÈTE",
+      "RÉPÈTE"
+    ],
+    "word" : "TRÉPEÈ"
+  },
+  {
+    "rs" : [
+      "RUSSIE",
+      "SES",
+      "SUE",
+      "SUR",
+      "RUES",
+      "SUIS",
+      "SIRE"
+    ],
+    "word" : "RIUESS"
+  },
+  {
+    "rs" : [
+      "SALETÉ",
+      "TELS",
+      "TES",
+      "LAS",
+      "TAS",
+      "SALE"
+    ],
+    "word" : "ASÉTLE"
+  },
+  {
+    "rs" : [
+      "TE",
+      "ET",
+      "SERT",
+      "ES",
+      "SE",
+      "STRESS"
+    ],
+    "word" : "TRSSSE"
+  },
+  {
+    "rs" : [
+      "TRÔNE",
+      "TES",
+      "NÔTRE",
+      "NÔTRES",
+      "EST"
+    ],
+    "word" : "ÔTRNES"
+  },
+  {
+    "rs" : [
+      "SENS",
+      "GENS",
+      "SES",
+      "SIGNE",
+      "SINGE",
+      "SIGNES"
+    ],
+    "word" : "SSIGNE"
+  },
+  {
+    "rs" : [
+      "COULER",
+      "RUE",
+      "COU",
+      "LEUR",
+      "LOU",
+      "COL",
+      "CRU"
+    ],
+    "word" : "OERULC"
+  },
+  {
+    "rs" : [
+      "FRAPPE",
+      "FER",
+      "FERA",
+      "PAPE",
+      "PAR"
+    ],
+    "word" : "AFRPPE"
+  },
+  {
+    "rs" : [
+      "UNIS",
+      "NÉS",
+      "RÉUNIS",
+      "NUS",
+      "RIS",
+      "SUR"
+    ],
+    "word" : "SÉIUNR"
+  },
+  {
+    "rs" : [
+      "LAPINM",
+      "PLAINS",
+      "SLOP",
+      "PLAN",
+      "PLANS",
+      "PAIN",
+      "SAIN"
+    ],
+    "word" : "MIANSOPL"
+  },
+  {
+    "rs" : [
+      "ÉCRITE",
+      "TIRÉ",
+      "ÉRIC",
+      "CET",
+      "TIR",
+      "CITÉ",
+      "CRÉE"
+    ],
+    "word" : "TÉIREC"
+  },
+  {
+    "rs" : [
+      "COPIE",
+      "COL",
+      "CIEL",
+      "POLICE",
+      "LOI",
+      "POIL"
+    ],
+    "word" : "OEIPLC"
+  },
+  {
+    "rs" : [
+      "TA",
+      "BAS",
+      "BAT",
+      "SA",
+      "TAS",
+      "BATS"
+    ],
+    "word" : "ATBS"
+  },
+  {
+    "rs" : [
+      "SUIVRE",
+      "SURVIE",
+      "SERVI",
+      "SUE",
+      "SIEUR",
+      "VIS",
+      "VIRUS"
+    ],
+    "word" : "VRIUSE"
+  },
+  {
+    "rs" : [
+      "IVRE",
+      "VIRE",
+      "VER",
+      "VIE",
+      "HIVER",
+      "HIER"
+    ],
+    "word" : "HVRIE"
+  },
+  {
+    "rs" : [
+      "AIMER",
+      "MARIE",
+      "IRA",
+      "AIME",
+      "MAIRE",
+      "ARME"
+    ],
+    "word" : "AMRIE"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "DURER",
+      "DURE",
+      "RUDE",
+      "DUR"
+    ],
+    "word" : "RRDUE"
+  },
+  {
+    "rs" : [
+      "REND",
+      "RENDRE",
+      "PERD",
+      "PRENDRE",
+      "REPREND"
+    ],
+    "word" : "DPNRREE"
+  },
+  {
+    "rs" : [
+      "LIVRES",
+      "VERS",
+      "SERVI",
+      "LIVRE",
+      "ELVIS",
+      "IVRE",
+      "LIRE"
+    ],
+    "word" : "VERILS"
+  },
+  {
+    "rs" : [
+      "EMPORTÉ",
+      "TROMPÉ",
+      "PORTÉE",
+      "TROMPE",
+      "TROMPÉE"
+    ],
+    "word" : "MREOÉPT"
+  },
+  {
+    "rs" : [
+      "SENS",
+      "GENS",
+      "SIGNES",
+      "SIGNE",
+      "SINGE",
+      "SINGES"
+    ],
+    "word" : "SSIGNE"
+  },
+  {
+    "rs" : [
+      "DEVIEZ",
+      "VEND",
+      "VENEZ",
+      "DEVINEZ"
+    ],
+    "word" : "VDINZEE"
+  },
+  {
+    "rs" : [
+      "TIEN",
+      "TIENS",
+      "SENT",
+      "SIEN",
+      "SITE",
+      "SENTI"
+    ],
+    "word" : "TINES"
+  },
+  {
+    "rs" : [
+      "VRAIS",
+      "SERAI",
+      "SERVI",
+      "NAVIRE",
+      "NAVIRES",
+      "VENIR",
+      "VRAIE",
+      "RAVIE"
+    ],
+    "word" : "VRAINSE"
+  },
+  {
+    "rs" : [
+      "EUE",
+      "NEVER",
+      "UNE",
+      "VENUE",
+      "NEUVE"
+    ],
+    "word" : "VRUNEE"
+  },
+  {
+    "rs" : [
+      "PERTE",
+      "PERTES",
+      "ENTRE",
+      "RESTE",
+      "SERPENT",
+      "PENSER"
+    ],
+    "word" : "TRPNSEE"
+  },
+  {
+    "rs" : [
+      "VIANDE",
+      "VEND",
+      "AIDE",
+      "IVAN",
+      "INDE",
+      "VAIN",
+      "VIDE"
+    ],
+    "word" : "VADINE"
+  },
+  {
+    "rs" : [
+      "AMI",
+      "AIE",
+      "AIME",
+      "AMIE",
+      "MAI"
+    ],
+    "word" : "AMIE"
+  },
+  {
+    "rs" : [
+      "PROCES",
+      "PORC",
+      "PRO",
+      "OR",
+      "PRES",
+      "CORPS"
+    ],
+    "word" : "OSRPEC"
+  },
+  {
+    "rs" : [
+      "DIT",
+      "DÉCRIT",
+      "CRÉDIT",
+      "CRI",
+      "TERÉ"
+    ],
+    "word" : "DIERTÉC"
+  },
+  {
+    "rs" : [
+      "ABRUTI",
+      "BRUIT",
+      "TRIBU",
+      "ABRI"
+    ],
+    "word" : "ATRIUB"
+  },
+  {
+    "rs" : [
+      "ALLUME",
+      "LAME",
+      "MULE"
+    ],
+    "word" : "AMULLE"
+  },
+  {
+    "rs" : [
+      "SES",
+      "PRISE",
+      "PIS",
+      "RIS"
+    ],
+    "word" : "RIPSSE"
+  },
+  {
+    "rs" : [
+      "MÈNE",
+      "RAMÈNE",
+      "MER",
+      "MÈRE",
+      "AMÈNE",
+      "ÈRE",
+      "ARME"
+    ],
+    "word" : "AMRNEÈ"
+  },
+  {
+    "rs" : [
+      "AIDE",
+      "AILE",
+      "AIE",
+      "DEAL",
+      "BAIL",
+      "DIABLE"
+    ],
+    "word" : "ADIBLE"
+  },
+  {
+    "rs" : [
+      "ENVIE",
+      "VEINES",
+      "VIES",
+      "VIE",
+      "SIEN",
+      "VIS",
+      "SEIN",
+      "VISE"
+    ],
+    "word" : "VINSEE"
+  },
+  {
+    "rs" : [
+      "TITRES",
+      "TEST",
+      "TRISTE",
+      "RIT",
+      "TIR",
+      "TE",
+      "EST",
+      "RIS",
+      "SITE"
+    ],
+    "word" : "TTRISE"
+  },
+  {
+    "rs" : [
+      "BOSS",
+      "BOSSER",
+      "BROSSE",
+      "ROSE",
+      "SORS",
+      "ROBE"
+    ],
+    "word" : "ORBESS"
+  },
+  {
+    "rs" : [
+      "MORTES",
+      "MORTE",
+      "MER",
+      "TES",
+      "MORTS",
+      "MOT",
+      "RESTO",
+      "SORTE"
+    ],
+    "word" : "OMRTSE"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "RATE",
+      "TENU",
+      "NATURE",
+      "UNE",
+      "AUTRE",
+      "TUER"
+    ],
+    "word" : "ATRUNE"
+  },
+  {
+    "rs" : [
+      "VIRE",
+      "VER",
+      "VIE",
+      "RI"
+    ],
+    "word" : "VRIE"
+  },
+  {
+    "rs" : [
+      "MIEN",
+      "MON",
+      "MINE",
+      "MOINE",
+      "MOI"
+    ],
+    "word" : "OMINE"
+  },
+  {
+    "rs" : [
+      "RAGE",
+      "RANG",
+      "ANGE",
+      "GARE",
+      "NAGE",
+      "NAGER",
+      "RANGE"
+    ],
+    "word" : "ARGNE"
+  },
+  {
+    "rs" : [
+      "FOI",
+      "ROI",
+      "OFFRIR"
+    ],
+    "word" : "OFFRRI"
+  },
+  {
+    "rs" : [
+      "CALMES",
+      "SALE",
+      "CAME",
+      "LAME",
+      "CASE",
+      "MECS",
+      "CELA"
+    ],
+    "word" : "AMESLC"
+  },
+  {
+    "rs" : [
+      "RAMENÉ",
+      "MER",
+      "NÉE",
+      "AMEN",
+      "AMENÉ",
+      "MARÉE",
+      "ARME",
+      "ARMÉE"
+    ],
+    "word" : "AMRÉNE"
+  },
+  {
+    "rs" : [
+      "SERAIS",
+      "AIR",
+      "AIE",
+      "SAIS",
+      "AISE",
+      "IRA",
+      "AIES",
+      "RIS",
+      "IRAS"
+    ],
+    "word" : "ARISSE"
+  },
+  {
+    "rs" : [
+      "NOS",
+      "FER",
+      "SON",
+      "FERONS",
+      "OSE"
+    ],
+    "word" : "OFRNSE"
+  },
+  {
+    "rs" : [
+      "SIGNEZ",
+      "GENS",
+      "SIGNE",
+      "SIEN",
+      "SINGE",
+      "SEIN",
+      "NEZ"
+    ],
+    "word" : "ESIGZN"
+  },
+  {
+    "rs" : [
+      "EUE",
+      "LEQUEL",
+      "QUELLE",
+      "QUE"
+    ],
+    "word" : "EEULLQ"
+  },
+  {
+    "rs" : [
+      "CENSÉS",
+      "SEC",
+      "NÉE",
+      "SES",
+      "CES",
+      "SENSÉ",
+      "SENS",
+      "CENSÉ",
+      "CESSÉ"
+    ],
+    "word" : "EÉNSSC"
+  },
+  {
+    "rs" : [
+      "SINGES",
+      "SIGNES",
+      "SES",
+      "GENS",
+      "SIEN",
+      "SENS",
+      "SEIN"
+    ],
+    "word" : "SSIGNE"
+  },
+  {
+    "rs" : [
+      "ESPRIT",
+      "TRIPES",
+      "PIS",
+      "TES",
+      "TIR",
+      "EST",
+      "RIS"
+    ],
+    "word" : "TRIPES"
+  },
+  {
+    "rs" : [
+      "VUE",
+      "EUE",
+      "NUE",
+      "REVU",
+      "UNE",
+      "VENU",
+      "NEVEU",
+      "REVUE",
+      "VENUE",
+      "REVENU"
+    ],
+    "word" : "VRNUEE"
+  },
+  {
+    "rs" : [
+      "CAR",
+      "ARMÉ",
+      "MARC",
+      "ARC",
+      "MARCHÉ"
+    ],
+    "word" : "HMÉARC"
+  },
+  {
+    "rs" : [
+      "SANG",
+      "ANGE",
+      "GENS",
+      "SAGE",
+      "ANS",
+      "ANGES"
+    ],
+    "word" : "ASGNE"
+  },
+  {
+    "rs" : [
+      "CASE",
+      "CELA",
+      "CAPE",
+      "PLACES",
+      "PLACE",
+      "SALE"
+    ],
+    "word" : "AESPLC"
+  },
+  {
+    "rs" : [
+      "GAZ",
+      "MANGEZ",
+      "NEZ",
+      "MANGE"
+    ],
+    "word" : "AMGNZE"
+  },
+  {
+    "rs" : [
+      "CHASSE",
+      "SACHE",
+      "SACHES",
+      "SES",
+      "CASSE",
+      "SAC",
+      "CASH",
+      "CASE",
+      "CAS"
+    ],
+    "word" : "AEHSSC"
+  },
+  {
+    "rs" : [
+      "FERAIT",
+      "REFAIT",
+      "FAIRE",
+      "FERA",
+      "FAIT",
+      "FIER",
+      "FAITE"
+    ],
+    "word" : "ATRFIE"
+  },
+  {
+    "rs" : [
+      "AI",
+      "AIR",
+      "IRA",
+      "DIRAI"
+    ],
+    "word" : "ARIID"
+  },
+  {
+    "rs" : [
+      "DOS",
+      "SOURD",
+      "SUR",
+      "DORS",
+      "OURS",
+      "SUD",
+      "DUR"
+    ],
+    "word" : "ODRUS"
+  },
+  {
+    "rs" : [
+      "MOI",
+      "SOIN",
+      "MIS",
+      "SOI",
+      "MOINS",
+      "MOIS",
+      "SIMON"
+    ],
+    "word" : "OMINS"
+  },
+  {
+    "rs" : [
+      "TROMPE",
+      "MORT",
+      "PORT",
+      "ROME",
+      "POT",
+      "MET",
+      "POTE",
+      "TOP",
+      "PRO",
+      "TROP",
+      "MOT"
+    ],
+    "word" : "OMRPTE"
+  },
+  {
+    "rs" : [
+      "GRAND",
+      "NAGER",
+      "GRANDE",
+      "DANGER",
+      "GARDE",
+      "EDGAR"
+    ],
+    "word" : "ADRGNE"
+  },
+  {
+    "rs" : [
+      "RÉSOLU",
+      "LOU",
+      "SUR",
+      "OURS",
+      "SOL",
+      "LÉO",
+      "ROULÉ",
+      "SOU"
+    ],
+    "word" : "OÉRULS"
+  },
+  {
+    "rs" : [
+      "PAREIL",
+      "PLAIRE",
+      "LIRE",
+      "PILE",
+      "PIRE",
+      "PARI",
+      "AILE",
+      "PRIE"
+    ],
+    "word" : "ARPILE"
+  },
+  {
+    "rs" : [
+      "INTIME",
+      "TIEN",
+      "MINE",
+      "MIEN",
+      "MENTI",
+      "MET",
+      "NET",
+      "MENT"
+    ],
+    "word" : "MTIINE"
+  },
+  {
+    "rs" : [
+      "ARMÉES",
+      "ARME",
+      "MER",
+      "SAM",
+      "ARMÉ",
+      "ARMÉS",
+      "MARÉE",
+      "MES",
+      "ARMÉE"
+    ],
+    "word" : "AMRÉSE"
+  },
+  {
+    "rs" : [
+      "ARC",
+      "CASSE",
+      "SEC",
+      "SES",
+      "CASSER",
+      "SAC",
+      "CES",
+      "SERAS",
+      "CAS"
+    ],
+    "word" : "AERSSC"
+  },
+  {
+    "rs" : [
+      "GARE",
+      "RARE",
+      "REGARD",
+      "RAGE",
+      "GARDER"
+    ],
+    "word" : "ADRRGE"
+  },
+  {
+    "rs" : [
+      "VALENT",
+      "LAVE",
+      "LENT",
+      "VENT",
+      "VALET",
+      "TEL",
+      "NET",
+      "VAN"
+    ],
+    "word" : "VATNLE"
+  },
+  {
+    "rs" : [
+      "BAIE",
+      "BANC",
+      "CABINE",
+      "BIEN",
+      "BAIN"
+    ],
+    "word" : "AEINBC"
+  },
+  {
+    "rs" : [
+      "SENT",
+      "SEC",
+      "CET",
+      "TES",
+      "CES",
+      "CENTS",
+      "NET",
+      "CENT"
+    ],
+    "word" : "STNEC"
+  },
+  {
+    "rs" : [
+      "CAL",
+      "BON",
+      "BALCON",
+      "COL",
+      "BLOC",
+      "CLAN",
+      "LABO",
+      "BAL",
+      "LAC",
+      "BANC"
+    ],
+    "word" : "OABNLC"
+  },
+  {
+    "rs" : [
+      "PETITS",
+      "TEST",
+      "PISTE",
+      "PIS",
+      "TES",
+      "EST",
+      "PETIT"
+    ],
+    "word" : "TTIPES"
+  },
+  {
+    "rs" : [
+      "AGENCE",
+      "GENE",
+      "CE",
+      "EN",
+      "ANGE",
+      "NE",
+      "NAGE",
+      "CAGE"
+    ],
+    "word" : "AEEGNC"
+  },
+  {
+    "rs" : [
+      "MER",
+      "PERMET",
+      "TERME",
+      "MET",
+      "PERTE"
+    ],
+    "word" : "MRPTEE"
+  },
+  {
+    "rs" : [
+      "COMPTE",
+      "CET",
+      "POTE",
+      "MET",
+      "TOP",
+      "MOT",
+      "COMTE"
+    ],
+    "word" : "OMTPEC"
+  },
+  {
+    "rs" : [
+      "ORDURE",
+      "RUE",
+      "ORDRE",
+      "DURE",
+      "ODEUR",
+      "DUR",
+      "ROUE"
+    ],
+    "word" : "ODRRUE"
+  },
+  {
+    "rs" : [
+      "VENU",
+      "EUE",
+      "NUE",
+      "UNE",
+      "NEUVE",
+      "VUE"
+    ],
+    "word" : "VUNEE"
+  },
+  {
+    "rs" : [
+      "SEIN",
+      "SIEN",
+      "BIENS",
+      "BIEN"
+    ],
+    "word" : "NIBSE"
+  },
+  {
+    "rs" : [
+      "LIT",
+      "ELLIOT",
+      "LOT",
+      "TEL",
+      "TOI",
+      "TOILE",
+      "LOI"
+    ],
+    "word" : "OTILLE"
+  },
+  {
+    "rs" : [
+      "GRIS",
+      "SIGNER",
+      "SIGNE",
+      "SIEN",
+      "GIN",
+      "RIS",
+      "RIEN",
+      "SINGE"
+    ],
+    "word" : "GRINSE"
+  },
+  {
+    "rs" : [
+      "AIDE",
+      "EAUX",
+      "ADIEUX",
+      "DEUX",
+      "DIEU"
+    ],
+    "word" : "ADIUEX"
+  },
+  {
+    "rs" : [
+      "VOS",
+      "RIS",
+      "VIE",
+      "ROI",
+      "REVOIS",
+      "SOI"
+    ],
+    "word" : "VORIES"
+  },
+  {
+    "rs" : [
+      "VIN",
+      "VIDE",
+      "INDE",
+      "VEND",
+      "DEVINE",
+      "ENVIE"
+    ],
+    "word" : "VDINEE"
+  },
+  {
+    "rs" : [
+      "GREG",
+      "GAGNER",
+      "GRANGE",
+      "NAGER",
+      "GARE",
+      "NAGE",
+      "GAGNE",
+      "GAGE",
+      "RAGE",
+      "RANG",
+      "GANG"
+    ],
+    "word" : "ARNEGG"
+  },
+  {
+    "rs" : [
+      "RISQUE",
+      "RUE",
+      "SUE",
+      "SUR",
+      "QUI",
+      "RUES",
+      "SIRE",
+      "QUE"
+    ],
+    "word" : "SRIUEQ"
+  },
+  {
+    "rs" : [
+      "POUDRE",
+      "RUE",
+      "PEU",
+      "PUE",
+      "ODEUR",
+      "PERDU",
+      "DUR"
+    ],
+    "word" : "ODPURE"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "IRA",
+      "VER",
+      "VIE",
+      "ARRIVE",
+      "AIE"
+    ],
+    "word" : "VARRIE"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "STAR",
+      "RAS",
+      "RATS",
+      "ARTS",
+      "ART",
+      "TSAR",
+      "TAS"
+    ],
+    "word" : "ATRS"
+  },
+  {
+    "rs" : [
+      "TRUC",
+      "TROU",
+      "COURTE",
+      "TOUR",
+      "COUR",
+      "TUER",
+      "COURT",
+      "ROUE"
+    ],
+    "word" : "OTRUEC"
+  },
+  {
+    "rs" : [
+      "ATTIRÉ",
+      "AIR",
+      "TRAITÉ",
+      "RAT",
+      "AIT",
+      "TIR",
+      "IRA",
+      "ART"
+    ],
+    "word" : "ATTÉIR"
+  },
+  {
+    "rs" : [
+      "PAIERA",
+      "AIE",
+      "AIR",
+      "PAR",
+      "PARIE",
+      "PAIRE",
+      "IRA",
+      "PIRE",
+      "PRIE"
+    ],
+    "word" : "AARPIE"
+  },
+  {
+    "rs" : [
+      "TIRE",
+      "RIME",
+      "TIRÉ",
+      "MÉTIER",
+      "MÉRITE"
+    ],
+    "word" : "MÉIRET"
+  },
+  {
+    "rs" : [
+      "AIMONS",
+      "MAISON",
+      "SOIN",
+      "MAIN",
+      "SAIN",
+      "MOIS",
+      "NOMS"
+    ],
+    "word" : "AMOINS"
+  },
+  {
+    "rs" : [
+      "BOURSE",
+      "RUE",
+      "BUS",
+      "SUE",
+      "SUR",
+      "OSE",
+      "EUROS",
+      "EUS",
+      "SOU"
+    ],
+    "word" : "ORBUES"
+  },
+  {
+    "rs" : [
+      "BOUE",
+      "BLEU",
+      "BOULE"
+    ],
+    "word" : "OBULE"
+  },
+  {
+    "rs" : [
+      "VENTE",
+      "VENTRE",
+      "ENTRE",
+      "VER",
+      "VERTE",
+      "NET"
+    ],
+    "word" : "VTRNEE"
+  },
+  {
+    "rs" : [
+      "ELSA",
+      "LES",
+      "SEL",
+      "LAS",
+      "SALE"
+    ],
+    "word" : "AESL"
+  },
+  {
+    "rs" : [
+      "MOMENT",
+      "NOM",
+      "TON",
+      "ONT",
+      "MET",
+      "MME",
+      "MON",
+      "MOT",
+      "MONTE"
+    ],
+    "word" : "OMMTNE"
+  },
+  {
+    "rs" : [
+      "AIE",
+      "IRA",
+      "RAVI",
+      "VRAIE",
+      "VRAI",
+      "IVRE",
+      "RAVIE"
+    ],
+    "word" : "VARIE"
+  },
+  {
+    "rs" : [
+      "BAISSE",
+      "AIE",
+      "BAIE",
+      "SES",
+      "SAIS",
+      "AISE",
+      "BAS",
+      "AIES"
+    ],
+    "word" : "AIBESS"
+  },
+  {
+    "rs" : [
+      "OMBRES",
+      "MER",
+      "ROME",
+      "ROBE",
+      "ROBES",
+      "ROSE",
+      "MES"
+    ],
+    "word" : "OMRBES"
+  },
+  {
+    "rs" : [
+      "SENS",
+      "GENS",
+      "SEIN",
+      "SIGNES",
+      "SINGES",
+      "SIEN"
+    ],
+    "word" : "SSIGNE"
+  },
+  {
+    "rs" : [
+      "FAIRE",
+      "FERAI",
+      "REFAIT",
+      "TIRE",
+      "FAIT",
+      "TAIRE",
+      "FERA",
+      "FIER",
+      "FAITE"
+    ],
+    "word" : "ATRFIE"
+  },
+  {
+    "rs" : [
+      "SERT",
+      "RESTER",
+      "TES",
+      "EST",
+      "RESTE",
+      "TERRE"
+    ],
+    "word" : "TRREES"
+  },
+  {
+    "rs" : [
+      "CAR",
+      "CACHER",
+      "CHER",
+      "CRACHE",
+      "ARC",
+      "CHAR"
+    ],
+    "word" : "HARECC"
+  },
+  {
+    "rs" : [
+      "VENISE",
+      "VEINES",
+      "VIES",
+      "VIENS",
+      "VIN",
+      "ENVIE",
+      "VIS",
+      "VIE"
+    ],
+    "word" : "VINSEE"
+  },
+  {
+    "rs" : [
+      "SERT",
+      "SORT",
+      "ROSE",
+      "SORTES",
+      "SORS"
+    ],
+    "word" : "OTRESS"
+  },
+  {
+    "rs" : [
+      "CHASSE",
+      "SACHE",
+      "SACHES",
+      "SES",
+      "SEC",
+      "CASSE",
+      "SAC",
+      "CES",
+      "CAS"
+    ],
+    "word" : "AEHSSC"
+  },
+  {
+    "rs" : [
+      "TOUTE",
+      "TOUT",
+      "TOUS",
+      "TOUTES",
+      "TUES",
+      "TEST"
+    ],
+    "word" : "OTTUES"
+  },
+  {
+    "rs" : [
+      "POULET",
+      "LOU",
+      "PLU",
+      "POT",
+      "LOT",
+      "POULE",
+      "PUE",
+      "OUT",
+      "TUE",
+      "TEL"
+    ],
+    "word" : "OTPULE"
+  },
+  {
+    "rs" : [
+      "FAIRE",
+      "AIT",
+      "FERAI",
+      "ART",
+      "FERAIT",
+      "TIR",
+      "AIR",
+      "FER",
+      "FIT",
+      "AIE",
+      "FAITE",
+      "RIT",
+      "REFAIT"
+    ],
+    "word" : "ATRFIE"
+  },
+  {
+    "rs" : [
+      "SAIT",
+      "SAIN",
+      "DISANT",
+      "DANS",
+      "TANDIS"
+    ],
+    "word" : "ATDINS"
+  },
+  {
+    "rs" : [
+      "TITRES",
+      "TRISTE",
+      "TES",
+      "TIRES",
+      "EST",
+      "RIS",
+      "TIERS"
+    ],
+    "word" : "TTRIES"
+  },
+  {
+    "rs" : [
+      "ENTIER",
+      "TENIR",
+      "RIT",
+      "TIR",
+      "ENTRE",
+      "NET",
+      "REINE"
+    ],
+    "word" : "TRINEE"
+  },
+  {
+    "rs" : [
+      "SEAU",
+      "CAUSE",
+      "ACCUSE",
+      "CASE",
+      "SAUCE"
+    ],
+    "word" : "ASUECC"
+  },
+  {
+    "rs" : [
+      "ARRIVE",
+      "AIR",
+      "VERRA",
+      "VER",
+      "VIRER",
+      "VERRAI",
+      "VRAIE",
+      "IRA",
+      "AIE",
+      "RAVIE",
+      "VIE"
+    ],
+    "word" : "VARRIE"
+  },
+  {
+    "rs" : [
+      "SON",
+      "SONNE",
+      "NON",
+      "OSE",
+      "NOS"
+    ],
+    "word" : "ONNSE"
+  },
+  {
+    "rs" : [
+      "VOIR",
+      "VOIRE",
+      "VER",
+      "ROI",
+      "VIE"
+    ],
+    "word" : "VORIE"
+  },
+  {
+    "rs" : [
+      "CI",
+      "DIT",
+      "CRÉDIT",
+      "DÉCRIT",
+      "CRI"
+    ],
+    "word" : "TÉIDRC"
+  },
+  {
+    "rs" : [
+      "AURA",
+      "AIRS",
+      "AURAIS",
+      "IRAS"
+    ],
+    "word" : "AARIUS"
+  },
+  {
+    "rs" : [
+      "COURSE",
+      "SOURCE",
+      "COUR",
+      "OURS",
+      "RUES",
+      "ROSE",
+      "ROUE"
+    ],
+    "word" : "OSRUEC"
+  },
+  {
+    "rs" : [
+      "ADIEUX",
+      "AIE",
+      "ADIEU",
+      "AIDE",
+      "AUX",
+      "EUX",
+      "DEUX",
+      "DIEU",
+      "DIX"
+    ],
+    "word" : "ADIUEX"
+  },
+  {
+    "rs" : [
+      "TELLES",
+      "LES",
+      "TEL",
+      "EST",
+      "TES"
+    ],
+    "word" : "EETSLL"
+  },
+  {
+    "rs" : [
+      "ARRÊTE",
+      "RARE",
+      "ARRÊT",
+      "ETRE",
+      "ART",
+      "RATE"
+    ],
+    "word" : "ATRRÊEE"
+  },
+  {
+    "rs" : [
+      "TROUVE",
+      "OUTRE",
+      "VOTER",
+      "VERTU",
+      "OUVRE",
+      "ROUTE",
+      "VOTRE"
+    ],
+    "word" : "OTRVUE"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "AIE",
+      "AIR",
+      "PARTIE",
+      "PATRIE",
+      "RIT",
+      "AIT",
+      "PIRATE",
+      "PAR",
+      "ART"
+    ],
+    "word" : "ATRPIE"
+  },
+  {
+    "rs" : [
+      "CACHE",
+      "ÉCHEC",
+      "CACHÉ",
+      "CACHÉE"
+    ],
+    "word" : "HAÉECC"
+  },
+  {
+    "rs" : [
+      "ARRIVE",
+      "RIRE",
+      "RARE",
+      "RAVI",
+      "VRAI",
+      "VIRE",
+      "IVRE"
+    ],
+    "word" : "VARRIE"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "TSAR",
+      "RATS",
+      "ARTS",
+      "ART",
+      "TAS",
+      "STAR"
+    ],
+    "word" : "ATRS"
+  },
+  {
+    "rs" : [
+      "VENTE",
+      "VENTRE",
+      "ENTRE",
+      "VERTE",
+      "VENT",
+      "VERT"
+    ],
+    "word" : "VTRNEE"
+  },
+  {
+    "rs" : [
+      "MER",
+      "NÉE",
+      "AMENÉ",
+      "RAMENÉ",
+      "ARMÉE"
+    ],
+    "word" : "AMÉRNE"
+  },
+  {
+    "rs" : [
+      "ARRIVE",
+      "RIRE",
+      "RARE",
+      "RAVI",
+      "VRAI",
+      "VIRE",
+      "IVRE"
+    ],
+    "word" : "VARRIE"
+  },
+  {
+    "rs" : [
+      "DESTIN",
+      "DISENT",
+      "SENT",
+      "TIEN",
+      "DISE",
+      "SIEN",
+      "DENT",
+      "INDE",
+      "SEIN",
+      "SITE"
+    ],
+    "word" : "TDINSE"
+  },
+  {
+    "rs" : [
+      "VENAIS",
+      "AIE",
+      "VIN",
+      "VIENS",
+      "VAS",
+      "ANS",
+      "SAINE",
+      "VIS",
+      "VIE"
+    ],
+    "word" : "VAINSE"
+  },
+  {
+    "rs" : [
+      "TIRE",
+      "TRAITE",
+      "ATTIRE"
+    ],
+    "word" : "ATTRIE"
+  },
+  {
+    "rs" : [
+      "TESTER",
+      "SERT",
+      "TES",
+      "EST"
+    ],
+    "word" : "TTRSEE"
+  },
+  {
+    "rs" : [
+      "VUE",
+      "EUE",
+      "NUE",
+      "VENUE",
+      "UNE",
+      "NEVEU",
+      "NEUVE"
+    ],
+    "word" : "VUNEE"
+  },
+  {
+    "rs" : [
+      "AIME",
+      "MAIRE",
+      "MARIE",
+      "RIME",
+      "AMIE",
+      "MARI",
+      "ARME"
+    ],
+    "word" : "AMRIE"
+  },
+  {
+    "rs" : [
+      "VUE",
+      "EUE",
+      "NUE",
+      "VENUE",
+      "UNE",
+      "NEVEU",
+      "NEUVE"
+    ],
+    "word" : "VUNEE"
+  },
+  {
+    "rs" : [
+      "COU",
+      "SOU",
+      "OUI",
+      "SOI",
+      "SOUCI",
+      "SOUCIS"
+    ],
+    "word" : "OIUSSC"
+  },
+  {
+    "rs" : [
+      "ARC",
+      "SON",
+      "CAR",
+      "OSCAR",
+      "NOS",
+      "ANS",
+      "SAC",
+      "CAS"
+    ],
+    "word" : "AORNSC"
+  },
+  {
+    "rs" : [
+      "LAME",
+      "OMAR",
+      "ROME",
+      "MORALE",
+      "MAL",
+      "ARME"
+    ],
+    "word" : "AMORLE"
+  },
+  {
+    "rs" : [
+      "TIENT",
+      "RIT",
+      "TENIR",
+      "TIRENT",
+      "NET",
+      "TIR"
+    ],
+    "word" : "TTRINE"
+  },
+  {
+    "rs" : [
+      "COURSE",
+      "RUE",
+      "COU",
+      "SEC",
+      "SOURCE",
+      "OSE",
+      "SOU",
+      "CRU"
+    ],
+    "word" : "OSRUEC"
+  },
+  {
+    "rs" : [
+      "VUE",
+      "PAUVRE",
+      "PAR",
+      "VAPEUR",
+      "PUE",
+      "PUR",
+      "PEUR"
+    ],
+    "word" : "VARPUE"
+  },
+  {
+    "rs" : [
+      "FORT",
+      "TROU",
+      "FOUT",
+      "TUER",
+      "FOUET",
+      "FORTE",
+      "ROUE"
+    ],
+    "word" : "OFRTUE"
+  },
+  {
+    "rs" : [
+      "RÉSEAU",
+      "RUE",
+      "USA",
+      "SUR",
+      "SUE",
+      "RUES",
+      "EAU"
+    ],
+    "word" : "AÉRUES"
+  },
+  {
+    "rs" : [
+      "RETARD",
+      "ART",
+      "TARDER",
+      "RAT"
+    ],
+    "word" : "ATRRDE"
+  },
+  {
+    "rs" : [
+      "AIDES",
+      "DEVAIS",
+      "VIES",
+      "AIDE",
+      "VAIS",
+      "AVIS",
+      "DISE",
+      "VISE"
+    ],
+    "word" : "VADISE"
+  },
+  {
+    "rs" : [
+      "MARI",
+      "AIR",
+      "AMI",
+      "MADRID",
+      "DIR",
+      "MAI"
+    ],
+    "word" : "AMDDIR"
+  },
+  {
+    "rs" : [
+      "DOS",
+      "SORTI",
+      "DROITS",
+      "ROI",
+      "DROIT",
+      "TIR",
+      "DIS",
+      "TROIS",
+      "SOI",
+      "TOI"
+    ],
+    "word" : "OTRDIS"
+  },
+  {
+    "rs" : [
+      "REND",
+      "DENVER",
+      "VEND",
+      "VENDRE"
+    ],
+    "word" : "VDRNEE"
+  },
+  {
+    "rs" : [
+      "QUE",
+      "EUE",
+      "LEQUEL",
+      "QUELLE",
+      "ELLE"
+    ],
+    "word" : "EEULLQ"
+  },
+  {
+    "rs" : [
+      "SORT",
+      "TROU",
+      "SORTI",
+      "SOURIT",
+      "ROIS",
+      "TROIS",
+      "SOIR"
+    ],
+    "word" : "OTRIUS"
+  },
+  {
+    "rs" : [
+      "PARTIE",
+      "PATRIE",
+      "PAR",
+      "RAT",
+      "AIT",
+      "TIR",
+      "ART"
+    ],
+    "word" : "ATRIPE"
+  },
+  {
+    "rs" : [
+      "OUVERT",
+      "TROU",
+      "TROUVE",
+      "TOUR",
+      "VEUT",
+      "TUER",
+      "VOTE",
+      "ROUE"
+    ],
+    "word" : "OTRVUE"
+  },
+  {
+    "rs" : [
+      "PU",
+      "EAU",
+      "PEAU",
+      "AU",
+      "EU"
+    ],
+    "word" : "APUE"
+  },
+  {
+    "rs" : [
+      "LOUER",
+      "LEUR",
+      "ROUE",
+      "ROULE"
+    ],
+    "word" : "ORULE"
+  },
+  {
+    "rs" : [
+      "NAGER",
+      "ANGE",
+      "GARE",
+      "NE",
+      "RANGE",
+      "EN",
+      "AN"
+    ],
+    "word" : "ARGNE"
+  },
+  {
+    "rs" : [
+      "SERT",
+      "VÔTRES",
+      "VERS",
+      "TES",
+      "EST",
+      "VERT"
+    ],
+    "word" : "VÔRTES"
+  },
+  {
+    "rs" : [
+      "AMEN",
+      "MER",
+      "AMENER",
+      "ARME"
+    ],
+    "word" : "AMRNEE"
+  },
+  {
+    "rs" : [
+      "VIN",
+      "SEIN",
+      "VENISE",
+      "VIE",
+      "ENVIE"
+    ],
+    "word" : "VINEES"
+  },
+  {
+    "rs" : [
+      "SANG",
+      "MAIN",
+      "MAINS",
+      "GAMIN",
+      "GAMINS"
+    ],
+    "word" : "AMIGNS"
+  },
+  {
+    "rs" : [
+      "TOC",
+      "CET",
+      "NOTRE",
+      "SNET",
+      "CONTE",
+      "CONTRE"
+    ],
+    "word" : "RNESOTC"
+  },
+  {
+    "rs" : [
+      "ARMÉE",
+      "ARME",
+      "MARS",
+      "ARMES",
+      "ARMÉS",
+      "ARMÉES"
+    ],
+    "word" : "AMÉRES"
+  },
+  {
+    "rs" : [
+      "SAC",
+      "PAS",
+      "CAS",
+      "CHAMPS",
+      "SAM"
+    ],
+    "word" : "AMHPSC"
+  },
+  {
+    "rs" : [
+      "RACE",
+      "ACTE",
+      "TUER",
+      "CARTE",
+      "AUTRE",
+      "ACTEUR"
+    ],
+    "word" : "ATRUEC"
+  },
+  {
+    "rs" : [
+      "PANIER",
+      "AIR",
+      "PAIN",
+      "PIRE",
+      "PARI",
+      "PAIE",
+      "RIEN"
+    ],
+    "word" : "ARINPE"
+  },
+  {
+    "rs" : [
+      "SERT",
+      "RESTER",
+      "TES",
+      "EST",
+      "TERRES"
+    ],
+    "word" : "TRREES"
+  },
+  {
+    "rs" : [
+      "SOIR",
+      "SORT",
+      "ROIS",
+      "TROIS",
+      "SOIT"
+    ],
+    "word" : "OTRIS"
+  },
+  {
+    "rs" : [
+      "SAURA",
+      "AIR",
+      "AURAIS",
+      "SAURAI",
+      "SUR",
+      "AURAI",
+      "IRA",
+      "AURAS"
+    ],
+    "word" : "AARIUS"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "PEAU",
+      "PUR",
+      "REÇU",
+      "APERÇU",
+      "PEUR"
+    ],
+    "word" : "ARÇUPE"
+  },
+  {
+    "rs" : [
+      "PAIERA",
+      "PAIRE",
+      "PARIE",
+      "PIRE",
+      "PARI",
+      "PAIE",
+      "PRIE"
+    ],
+    "word" : "AARIPE"
+  },
+  {
+    "rs" : [
+      "SEXUEL",
+      "SEUL",
+      "SEXE",
+      "EUX",
+      "SUE",
+      "SEL",
+      "LES",
+      "SEULE"
+    ],
+    "word" : "EESULX"
+  },
+  {
+    "rs" : [
+      "DÉSIRE",
+      "IDÉES",
+      "IDÉE",
+      "DISE",
+      "DÉSIR",
+      "DES",
+      "SÉRIE"
+    ],
+    "word" : "SÉIDRE"
+  },
+  {
+    "rs" : [
+      "AVENIR",
+      "NAVIRE",
+      "RIEN",
+      "RAVI",
+      "VAIN",
+      "VIRE",
+      "IVRE"
+    ],
+    "word" : "VARINE"
+  },
+  {
+    "rs" : [
+      "AI",
+      "MISE",
+      "AMI",
+      "MAIS",
+      "AMIS",
+      "SAM"
+    ],
+    "word" : "AMIES"
+  },
+  {
+    "rs" : [
+      "LES",
+      "TEL",
+      "TES",
+      "TELS",
+      "STYLE"
+    ],
+    "word" : "ETYSL"
+  },
+  {
+    "rs" : [
+      "LIS",
+      "PAS",
+      "PLAIS",
+      "LAS",
+      "PIS",
+      "ILS"
+    ],
+    "word" : "AIPLS"
+  },
+  {
+    "rs" : [
+      "PARENT",
+      "RATE",
+      "PAR",
+      "PART",
+      "TAPE",
+      "ART",
+      "NET"
+    ],
+    "word" : "ATRPNE"
+  },
+  {
+    "rs" : [
+      "SUR",
+      "SUE",
+      "TUEURS",
+      "EUT",
+      "TUEUR"
+    ],
+    "word" : "TRUUES"
+  },
+  {
+    "rs" : [
+      "ANGES",
+      "SAIGNE",
+      "SIGNE",
+      "SINGE"
+    ],
+    "word" : "ASIGNE"
+  },
+  {
+    "rs" : [
+      "TIEN",
+      "SEIN",
+      "SAIT",
+      "SAINTE",
+      "TENAIS",
+      "SITE"
+    ],
+    "word" : "ATINES"
+  },
+  {
+    "rs" : [
+      "REQUIN",
+      "RUE",
+      "NUE",
+      "RUINE",
+      "UNE",
+      "NIQUE",
+      "QUI",
+      "QUE"
+    ],
+    "word" : "ERIUNQ"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "AIR",
+      "TRAITE",
+      "RIT",
+      "TIR",
+      "TAIRE",
+      "TITRE"
+    ],
+    "word" : "ATTRIE"
+  },
+  {
+    "rs" : [
+      "TITRES",
+      "TRISTE",
+      "TES",
+      "TIR",
+      "EST",
+      "RIS",
+      "TITRE"
+    ],
+    "word" : "TTRIES"
+  },
+  {
+    "rs" : [
+      "DÉSOLÉ",
+      "DOS",
+      "SOL",
+      "DÉS"
+    ],
+    "word" : "ODÉÉSL"
+  },
+  {
+    "rs" : [
+      "SOIR",
+      "NOIR",
+      "SOIN",
+      "NOIRS",
+      "IRONS",
+      "ROIS"
+    ],
+    "word" : "ORINS"
+  },
+  {
+    "rs" : [
+      "PRIE",
+      "NIER",
+      "CRIE",
+      "PRINCE",
+      "PIRE",
+      "RIEN"
+    ],
+    "word" : "ERINPC"
+  },
+  {
+    "rs" : [
+      "SACHES",
+      "CAS",
+      "SES",
+      "CASSE",
+      "SACHE",
+      "CHASSE"
+    ],
+    "word" : "HASSEC"
+  },
+  {
+    "rs" : [
+      "ACTION",
+      "TON",
+      "ONT",
+      "COIN",
+      "AIT",
+      "CIAO",
+      "TOC",
+      "TOI"
+    ],
+    "word" : "AOTINC"
+  },
+  {
+    "rs" : [
+      "PERDUS",
+      "SUPER",
+      "PUE",
+      "PUR",
+      "SUD",
+      "DUR",
+      "PERDU"
+    ],
+    "word" : "SDPURE"
+  },
+  {
+    "rs" : [
+      "DIRAIS",
+      "DIRA",
+      "IRA",
+      "AIRS",
+      "IRAI",
+      "IRAS",
+      "DIRAI"
+    ],
+    "word" : "ADIIRS"
+  },
+  {
+    "rs" : [
+      "MAI",
+      "AIMER",
+      "MARIE"
+    ],
+    "word" : "AMRIE"
+  },
+  {
+    "rs" : [
+      "SOUPER",
+      "PURE",
+      "POSE",
+      "OURS",
+      "POUR",
+      "REPOS",
+      "PEUR",
+      "ROUE"
+    ],
+    "word" : "ORPUSE"
+  },
+  {
+    "rs" : [
+      "CES",
+      "LES",
+      "ELLES",
+      "CELLE",
+      "SELLE",
+      "CELLES"
+    ],
+    "word" : "EESLLC"
+  },
+  {
+    "rs" : [
+      "RIS",
+      "ROI",
+      "SOI",
+      "ROIS"
+    ],
+    "word" : "ORIS"
+  },
+  {
+    "rs" : [
+      "BUT",
+      "RUE",
+      "TUBE",
+      "TUER",
+      "BUTER"
+    ],
+    "word" : "TRBUE"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "SUE",
+      "OURS",
+      "RUES",
+      "EUROS",
+      "ROSE",
+      "ROUE"
+    ],
+    "word" : "ORUES"
+  },
+  {
+    "rs" : [
+      "PAPIER",
+      "AIE",
+      "AIR",
+      "PAIRE",
+      "PARIE",
+      "IRA",
+      "PIPE"
+    ],
+    "word" : "ARIPPE"
+  },
+  {
+    "rs" : [
+      "LAME",
+      "ALARME",
+      "MAL",
+      "ARME"
+    ],
+    "word" : "AAMRLE"
+  },
+  {
+    "rs" : [
+      "TRAÎNE",
+      "NAÎTRE",
+      "ART",
+      "RAT",
+      "NET"
+    ],
+    "word" : "ATRÎNE"
+  },
+  {
+    "rs" : [
+      "AMEN",
+      "MENT",
+      "MATIN",
+      "AIME",
+      "AIMENT",
+      "MAIN"
+    ],
+    "word" : "AMTINE"
+  },
+  {
+    "rs" : [
+      "SENT",
+      "VENT",
+      "STEVEN",
+      "VENTES",
+      "TES",
+      "NET",
+      "VESTE"
+    ],
+    "word" : "VTNEES"
+  },
+  {
+    "rs" : [
+      "SERT",
+      "SAM",
+      "TES",
+      "RESTEZ",
+      "RESTE",
+      "MAL"
+    ],
+    "word" : "MZRAEESTL"
+  },
+  {
+    "rs" : [
+      "LARMES",
+      "MER",
+      "SEL",
+      "LES",
+      "ARMES",
+      "MES",
+      "LAS"
+    ],
+    "word" : "AMRSLE"
+  },
+  {
+    "rs" : [
+      "PARTIE",
+      "AIE",
+      "AIR",
+      "PATRIE",
+      "PIRATE",
+      "IRA",
+      "TIR"
+    ],
+    "word" : "ATRIPE"
+  },
+  {
+    "rs" : [
+      "MARI",
+      "AIMER",
+      "MARIE",
+      "MAIRE",
+      "AMIE",
+      "ARME"
+    ],
+    "word" : "AMRIE"
+  },
+  {
+    "rs" : [
+      "TIREUR",
+      "RUE",
+      "RIRE",
+      "TIR",
+      "TUE",
+      "TIRE",
+      "TIRER"
+    ],
+    "word" : "TRRIUE"
+  },
+  {
+    "rs" : [
+      "TARD",
+      "RARE",
+      "DATE",
+      "ART",
+      "TARDER",
+      "RETARD"
+    ],
+    "word" : "ATDRRE"
+  },
+  {
+    "rs" : [
+      "BAISER",
+      "AIE",
+      "AIR",
+      "IRA",
+      "RIS",
+      "BRISE",
+      "BAR"
+    ],
+    "word" : "ARIBES"
+  },
+  {
+    "rs" : [
+      "TROU",
+      "TOUR",
+      "TOURNÉ",
+      "NOTÉ"
+    ],
+    "word" : "OTRÉUN"
+  },
+  {
+    "rs" : [
+      "TIRE",
+      "RIT",
+      "RETIRE",
+      "TIR",
+      "RIRE"
+    ],
+    "word" : "TRRIEE"
+  },
+  {
+    "rs" : [
+      "SUJETS",
+      "SUJET",
+      "SUE",
+      "EUT",
+      "JEU",
+      "TES",
+      "TUE",
+      "JUSTE"
+    ],
+    "word" : "SSTUEJ"
+  },
+  {
+    "rs" : [
+      "TIR",
+      "RIT",
+      "VER",
+      "VIE",
+      "VIT",
+      "ÉVITER"
+    ],
+    "word" : "VTÉIRE"
+  },
+  {
+    "rs" : [
+      "CRÉDIT",
+      "TIRÉ",
+      "DÉCRIT",
+      "TIR",
+      "CITÉ",
+      "CRI",
+      "CRIÉ",
+      "ÉCRIT"
+    ],
+    "word" : "TRÉDIC"
+  },
+  {
+    "rs" : [
+      "PERDUS",
+      "RUE",
+      "SUPER",
+      "PEU",
+      "PUR",
+      "PERDU",
+      "DUR"
+    ],
+    "word" : "SDPURE"
+  },
+  {
+    "rs" : [
+      "UNIS",
+      "SEIN",
+      "UNE",
+      "SIEN",
+      "USINE"
+    ],
+    "word" : "SIUNE"
+  },
+  {
+    "rs" : [
+      "SEUL",
+      "BEL",
+      "LES",
+      "SEL",
+      "BLEUS",
+      "BLUES"
+    ],
+    "word" : "SBULE"
+  },
+  {
+    "rs" : [
+      "RACE",
+      "FACE",
+      "FRANCE",
+      "FERA"
+    ],
+    "word" : "AFRNEC"
+  },
+  {
+    "rs" : [
+      "COURSE",
+      "RUE",
+      "COU",
+      "SUR",
+      "CES",
+      "OSE",
+      "SOU",
+      "CRU"
+    ],
+    "word" : "OSRUEC"
+  },
+  {
+    "rs" : [
+      "SUR",
+      "REFUSÉ",
+      "FÉES",
+      "RUES",
+      "FUSÉE"
+    ],
+    "word" : "FÉRUES"
+  },
+  {
+    "rs" : [
+      "COU",
+      "COUPLE",
+      "PEU",
+      "PLU",
+      "PUE",
+      "LOUP"
+    ],
+    "word" : "OEPULC"
+  },
+  {
+    "rs" : [
+      "LAME",
+      "MER",
+      "PALMER",
+      "LAMPE",
+      "MAL",
+      "ARME"
+    ],
+    "word" : "AMRPLE"
+  },
+  {
+    "rs" : [
+      "ACTE",
+      "SACHE",
+      "CHAT",
+      "CASE",
+      "TACHES"
+    ],
+    "word" : "HASTEC"
+  },
+  {
+    "rs" : [
+      "ATTIRE",
+      "AIE",
+      "AIR",
+      "TRAITE",
+      "AIT",
+      "TIR",
+      "TAIRE",
+      "TITRE"
+    ],
+    "word" : "ATTRIE"
+  },
+  {
+    "rs" : [
+      "NET",
+      "RIT",
+      "TENIR",
+      "ENTIER",
+      "TIR"
+    ],
+    "word" : "TRINEE"
+  },
+  {
+    "rs" : [
+      "SOIR",
+      "SORT",
+      "TIRS",
+      "TROIS",
+      "ROIS",
+      "SOIT"
+    ],
+    "word" : "OTRIS"
+  },
+  {
+    "rs" : [
+      "TITRES",
+      "TRISTE",
+      "TES",
+      "TIR",
+      "TIRES",
+      "RIS",
+      "TITRE"
+    ],
+    "word" : "TTRIES"
+  },
+  {
+    "rs" : [
+      "CAR",
+      "CAGE",
+      "RACE",
+      "GARCE",
+      "RAGE",
+      "GARE"
+    ],
+    "word" : "ARGEC"
+  },
+  {
+    "rs" : [
+      "SERT",
+      "TESTER",
+      "TES",
+      "EST",
+      "TEST",
+      "RESTE"
+    ],
+    "word" : "TTREES"
+  },
+  {
+    "rs" : [
+      "MISE",
+      "RIME",
+      "MES",
+      "SIRE",
+      "REMIS"
+    ],
+    "word" : "MRIES"
+  },
+  {
+    "rs" : [
+      "RATÉ",
+      "ATTIRÉ",
+      "TARÉ",
+      "TRAITÉ",
+      "ÉTAT",
+      "ÉTAIT"
+    ],
+    "word" : "ATTÉIR"
+  },
+  {
+    "rs" : [
+      "MER",
+      "METTE",
+      "TERME",
+      "MET",
+      "METTRE"
+    ],
+    "word" : "MRTTEE"
+  },
+  {
+    "rs" : [
+      "AIMER",
+      "MARIE",
+      "AIME",
+      "MAIRE",
+      "ARME"
+    ],
+    "word" : "AMRIE"
+  },
+  {
+    "rs" : [
+      "PAQUET",
+      "TAPE",
+      "PEAU",
+      "PEUT",
+      "PUE",
+      "QUE",
+      "PEU"
+    ],
+    "word" : "ATPUEQ"
+  },
+  {
+    "rs" : [
+      "BASE",
+      "AIES",
+      "AISE",
+      "BAIE"
+    ],
+    "word" : "AIBSE"
+  },
+  {
+    "rs" : [
+      "PAIRE",
+      "PIRATE",
+      "PARTI",
+      "PATRIE",
+      "PARTIE"
+    ],
+    "word" : "ATRIPE"
+  },
+  {
+    "rs" : [
+      "BAL",
+      "LES",
+      "BASE",
+      "LAS",
+      "SABLE",
+      "SALE"
+    ],
+    "word" : "ASBLE"
+  },
+  {
+    "rs" : [
+      "DIT",
+      "CITÉ",
+      "DÉCRIT",
+      "TIRÉ",
+      "CRI",
+      "TIR"
+    ],
+    "word" : "TÉIDRC"
+  },
+  {
+    "rs" : [
+      "SERT",
+      "RESTÉS",
+      "SES",
+      "TES",
+      "EST",
+      "RESTÉ"
+    ],
+    "word" : "TÉRESS"
+  },
+  {
+    "rs" : [
+      "BOULES",
+      "SUE",
+      "SEL",
+      "LES",
+      "BOL",
+      "SOL",
+      "BOULE",
+      "BLEUS"
+    ],
+    "word" : "OSBULE"
+  },
+  {
+    "rs" : [
+      "TERRE",
+      "TERRES",
+      "RESTER",
+      "TES",
+      "EST",
+      "RESTE"
+    ],
+    "word" : "TRREES"
+  },
+  {
+    "rs" : [
+      "SERT",
+      "SORT",
+      "ROSE",
+      "TES",
+      "SORTE",
+      "SORTEZ"
+    ],
+    "word" : "OSRTZE"
+  },
+  {
+    "rs" : [
+      "IVRE",
+      "VRAIE",
+      "RAVI",
+      "VERRAI",
+      "VRAI"
+    ],
+    "word" : "VARRIE"
+  },
+  {
+    "rs" : [
+      "COURSE",
+      "RUE",
+      "COU",
+      "SOURCE",
+      "EUS",
+      "SOU",
+      "CRU"
+    ],
+    "word" : "OSRUEC"
+  },
+  {
+    "rs" : [
+      "MIS",
+      "AMI",
+      "MARIÉ",
+      "MARIÉS",
+      "ARMÉS",
+      "SAM"
+    ],
+    "word" : "AMÉIRS"
+  },
+  {
+    "rs" : [
+      "AMEN",
+      "MÈNE",
+      "AMÈNE",
+      "RAMÈNE",
+      "MÈRE",
+      "ARME"
+    ],
+    "word" : "AMRNEÈ"
+  },
+  {
+    "rs" : [
+      "SUR",
+      "COEURS",
+      "SOEUR",
+      "COEUR"
+    ],
+    "word" : "EORUSC"
+  },
+  {
+    "rs" : [
+      "PREUVE",
+      "RUE",
+      "REVU",
+      "REVUE",
+      "PUR",
+      "PEUR",
+      "PURE"
+    ],
+    "word" : "VRPUEE"
+  },
+  {
+    "rs" : [
+      "FERAIT",
+      "AIE",
+      "AIR",
+      "REFAIT",
+      "RIT",
+      "IRA",
+      "FER"
+    ],
+    "word" : "AFRITE"
+  },
+  {
+    "rs" : [
+      "MER",
+      "REMET",
+      "MET",
+      "TERME"
+    ],
+    "word" : "TRMEE"
+  },
+  {
+    "rs" : [
+      "BAL",
+      "BALADE",
+      "DEAL",
+      "BEL"
+    ],
+    "word" : "AADBLE"
+  },
+  {
+    "rs" : [
+      "TIRE",
+      "TITRE",
+      "RATE",
+      "TAIRE",
+      "ATTIRE"
+    ],
+    "word" : "ATTRIE"
+  },
+  {
+    "rs" : [
+      "ÉCRIRE",
+      "ÉRIC",
+      "CRI",
+      "CRÉE",
+      "CRÉER",
+      "RIRE"
+    ],
+    "word" : "ÉIRREC"
+  },
+  {
+    "rs" : [
+      "MONTER",
+      "NOTE",
+      "MORTE",
+      "MONTRE",
+      "ROME",
+      "MONT",
+      "MENT",
+      "MORT"
+    ],
+    "word" : "OMRTNE"
+  },
+  {
+    "rs" : [
+      "ARTS",
+      "STAR",
+      "RATS",
+      "ART",
+      "TAS"
+    ],
+    "word" : "ATRS"
+  },
+  {
+    "rs" : [
+      "VIES",
+      "VIE",
+      "VIS",
+      "VISE"
+    ],
+    "word" : "VISE"
+  },
+  {
+    "rs" : [
+      "COU",
+      "SUR",
+      "COURS",
+      "COUR",
+      "OURS",
+      "SOU",
+      "CRU"
+    ],
+    "word" : "ORUSC"
+  },
+  {
+    "rs" : [
+      "PEUT",
+      "TUE",
+      "EUT",
+      "PEU",
+      "TAUPE",
+      "PUE"
+    ],
+    "word" : "ATPUE"
+  },
+  {
+    "rs" : [
+      "BUT",
+      "TUÉ",
+      "TUE",
+      "BAT",
+      "BEAU",
+      "BEAUTÉ"
+    ],
+    "word" : "ATÉBUE"
+  },
+  {
+    "rs" : [
+      "MER",
+      "NÉE",
+      "AMENÉ",
+      "RAMENÉ",
+      "ARMÉE"
+    ],
+    "word" : "AMÉRNE"
+  },
+  {
+    "rs" : [
+      "IVRE",
+      "VISE",
+      "SUIVRE",
+      "RUES",
+      "SURVIE"
+    ],
+    "word" : "VRIUES"
+  },
+  {
+    "rs" : [
+      "ENTREZ",
+      "ENTRE",
+      "NEZ",
+      "NET"
+    ],
+    "word" : "TRNZEE"
+  },
+  {
+    "rs" : [
+      "ENTIER",
+      "TIEN",
+      "TENIR",
+      "RIT",
+      "TIR",
+      "NIER",
+      "TIRE",
+      "ENTRE",
+      "NET"
+    ],
+    "word" : "TRINEE"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "DROGUE",
+      "DUR",
+      "ROUGE"
+    ],
+    "word" : "ORDUEG"
+  },
+  {
+    "rs" : [
+      "PRIONS",
+      "PRISON",
+      "NOIR",
+      "PRIS",
+      "SOIN",
+      "SOIR",
+      "IRONS",
+      "NOIRS"
+    ],
+    "word" : "ORPNSI"
+  },
+  {
+    "rs" : [
+      "CAL",
+      "CAS",
+      "USA",
+      "LAC",
+      "SAC",
+      "LUCAS",
+      "LAS"
+    ],
+    "word" : "ASULC"
+  },
+  {
+    "rs" : [
+      "SOI",
+      "POSE",
+      "POÉSIE",
+      "OSÉ",
+      "PIS",
+      "OSE"
+    ],
+    "word" : "OÉIPES"
+  },
+  {
+    "rs" : [
+      "RIT",
+      "RETIRE",
+      "TERRE",
+      "TIRER",
+      "TIR"
+    ],
+    "word" : "TRRIEE"
+  },
+  {
+    "rs" : [
+      "SUR",
+      "OSE",
+      "OURS",
+      "EUROS",
+      "EUS",
+      "ROSE",
+      "ROUES"
+    ],
+    "word" : "ORUES"
+  },
+  {
+    "rs" : [
+      "BOIRE",
+      "ORBITE",
+      "ROI",
+      "RIT",
+      "TIR",
+      "TOI",
+      "BOITE"
+    ],
+    "word" : "OTRIBE"
+  },
+  {
+    "rs" : [
+      "VENISE",
+      "VISE",
+      "VIES",
+      "VIENS",
+      "SIEN",
+      "SEIN",
+      "ENVIE"
+    ],
+    "word" : "VINEES"
+  },
+  {
+    "rs" : [
+      "CASH",
+      "CHANCE",
+      "CACHES",
+      "CHANCES"
+    ],
+    "word" : "HASNECC"
+  },
+  {
+    "rs" : [
+      "REPRIS",
+      "RIRE",
+      "PRIS",
+      "RIRES",
+      "RIS",
+      "PIRE",
+      "PRIE"
+    ],
+    "word" : "RRIPES"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "DROGUE",
+      "DUR",
+      "ROUGE"
+    ],
+    "word" : "ORDUEG"
+  },
+  {
+    "rs" : [
+      "ELSA",
+      "LES",
+      "SEL",
+      "LAS",
+      "SALE"
+    ],
+    "word" : "AESL"
+  },
+  {
+    "rs" : [
+      "SEPT",
+      "POSE",
+      "TES",
+      "POTES",
+      "EST",
+      "TOP",
+      "POSTE"
+    ],
+    "word" : "OTPES"
+  },
+  {
+    "rs" : [
+      "RUE",
+      "ROUTE",
+      "TUE",
+      "OUTRE",
+      "OUT"
+    ],
+    "word" : "OTRUE"
+  },
+  {
+    "rs" : [
+      "FAIRE",
+      "RATE",
+      "FERAIT",
+      "FERA",
+      "FAIT",
+      "TIRE",
+      "FIER"
+    ],
+    "word" : "AFRITE"
+  },
+  {
+    "rs" : [
+      "AURAI",
+      "AIR",
+      "AURAS",
+      "AURAIS",
+      "SAURAI",
+      "SUR"
+    ],
+    "word" : "AARIUS"
+  },
+  {
+    "rs" : [
+      "RATE",
+      "PAR",
+      "TAPE",
+      "PLAT",
+      "PAN",
+      "PARLENT",
+      "TEL",
+      "ART"
+    ],
+    "word" : "RANETPL"
+  },
+  {
+    "rs" : [
+      "AILLE",
+      "AILE",
+      "VILLAGE",
+      "VIE",
+      "LAVE",
+      "AGI"
+    ],
+    "word" : "VAIGLLE"
+  },
+  {
+    "rs" : [
+      "CHATS",
+      "CHAT",
+      "CACHE",
+      "CASH",
+      "CASE",
+      "ACTE",
+      "CACHETS"
+    ],
+    "word" : "ATEHSCC"
+  },
+  {
+    "rs" : [
+      "CAGE",
+      "NÉE",
+      "ANGE",
+      "ÉCHANGE"
+    ],
+    "word" : "EANGÉCH"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "ATTRAPE",
+      "PAR",
+      "PART",
+      "TAPE",
+      "TAPER",
+      "ART"
+    ],
+    "word" : "AATTRPE"
+  },
+  {
+    "rs" : [
+      "CITÉ",
+      "CRÉTINS",
+      "CRIS",
+      "TIRÉ",
+      "ÉCRIT",
+      "ÉCRIS"
+    ],
+    "word" : "IRNSTÉC"
+  },
+  {
+    "rs" : [
+      "RUMEUR",
+      "RUE",
+      "MURS",
+      "SUR",
+      "RUMEURS",
+      "RUES",
+      "MEURS"
+    ],
+    "word" : "MRRUUES"
+  },
+  {
+    "rs" : [
+      "DOUTAIS",
+      "DIT",
+      "SOU",
+      "SUD",
+      "TAS",
+      "OUI"
+    ],
+    "word" : "DIASOTU"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "TRACE",
+      "CAR",
+      "CET",
+      "CHANT",
+      "NET",
+      "CHANTER"
+    ],
+    "word" : "RANETCH"
+  },
+  {
+    "rs" : [
+      "REND",
+      "ANGE",
+      "GRANDE",
+      "RAGE",
+      "DÉRANGE"
+    ],
+    "word" : "DEANRÉG"
+  },
+  {
+    "rs" : [
+      "METS",
+      "MER",
+      "MES",
+      "TERMES",
+      "EST",
+      "TES"
+    ],
+    "word" : "MRTEES"
+  },
+  {
+    "rs" : [
+      "CHANCE",
+      "EAU",
+      "NUE",
+      "UNE",
+      "CHACUNE",
+      "CACHE"
+    ],
+    "word" : "HAEUNCC"
+  },
+  {
+    "rs" : [
+      "POSE",
+      "SOUS",
+      "SOUPE",
+      "ÉPOUSE",
+      "POSÉ",
+      "POUSSÉE"
+    ],
+    "word" : "OÉPUESS"
+  },
+  {
+    "rs" : [
+      "RAVIE",
+      "AIE",
+      "AIR",
+      "VER",
+      "VIRER",
+      "ARRIVÉE",
+      "VIRÉE"
+    ],
+    "word" : "VAÉIRRE"
+  },
+  {
+    "rs" : [
+      "FERMÉE",
+      "MER",
+      "ENFERMÉ",
+      "FER",
+      "FERME",
+      "FERMÉ",
+      "MENÉ"
+    ],
+    "word" : "MRÉNEEF"
+  },
+  {
+    "rs" : [
+      "VIN",
+      "VAIN",
+      "IVAN",
+      "VAN"
+    ],
+    "word" : "AVIN"
+  },
+  {
+    "rs" : [
+      "MEC",
+      "MER",
+      "CRIME",
+      "MERCI",
+      "CRI"
+    ],
+    "word" : "MRIEC"
+  },
+  {
+    "rs" : [
+      "TES",
+      "TIERS",
+      "EST",
+      "RIS",
+      "SIRE",
+      "TIRES",
+      "SITE"
+    ],
+    "word" : "TRIES"
+  },
+  {
+    "rs" : [
+      "LAC",
+      "COMA",
+      "COL",
+      "LOLA",
+      "LOCAL",
+      "MAL"
+    ],
+    "word" : "AMOLLC"
+  },
+  {
+    "rs" : [
+      "PAN",
+      "NET",
+      "TEL",
+      "PLANTE",
+      "PLANÈTE",
+      "PLAT"
+    ],
+    "word" : "EANÈTPL"
+  },
+  {
+    "rs" : [
+      "BATEAU",
+      "BLEU",
+      "AUBE",
+      "BUTE",
+      "TABLE",
+      "BEAU",
+      "TABLEAU"
+    ],
+    "word" : "AATBULE"
+  },
+  {
+    "rs" : [
+      "DES",
+      "DOSE",
+      "POSE",
+      "DÉPOSE",
+      "OSE",
+      "POSÉ"
+    ],
+    "word" : "OÉPDES"
+  },
+  {
+    "rs" : [
+      "PORTE",
+      "MORTE",
+      "CET",
+      "COMPTER",
+      "POT",
+      "MEC",
+      "MOT"
+    ],
+    "word" : "MREOTPC"
+  },
+  {
+    "rs" : [
+      "AGIR",
+      "RAGE",
+      "GARE",
+      "TUERA",
+      "TIRE",
+      "GUITARE",
+      "AGIT",
+      "TUER"
+    ],
+    "word" : "IRAETGU"
+  },
+  {
+    "rs" : [
+      "BRAS",
+      "RARE",
+      "ARBRES",
+      "BAR",
+      "SERA",
+      "BAS",
+      "ARBRE",
+      "BASE"
+    ],
+    "word" : "ARRBSE"
+  },
+  {
+    "rs" : [
+      "CAL",
+      "CABANE",
+      "BALANCE",
+      "BEL",
+      "CLAN",
+      "LAC",
+      "CELA"
+    ],
+    "word" : "AAEBNLC"
+  },
+  {
+    "rs" : [
+      "CHEMIN",
+      "MANCHE",
+      "CAME",
+      "MACHINE",
+      "MINE",
+      "MIEN",
+      "AMIE"
+    ],
+    "word" : "MIEANCH"
+  },
+  {
+    "rs" : [
+      "AIMER",
+      "MAI",
+      "MAIRE",
+      "MARIE",
+      "AMIE",
+      "MARI",
+      "ARME"
+    ],
+    "word" : "AMRIE"
+  },
+  {
+    "rs" : [
+      "PROTÈGE",
+      "POTE",
+      "PORT",
+      "PÈRE",
+      "PÈTE",
+      "TROP"
+    ],
+    "word" : "REÈOTPG"
+  },
+  {
+    "rs" : [
+      "PÉRE",
+      "ROME",
+      "POTE",
+      "TROP",
+      "EMPORTÉ",
+      "TROMPÉE",
+      "MORT",
+      "PORT"
+    ],
+    "word" : "MREOÉPT"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "BAISSER",
+      "AIE",
+      "BAISERS",
+      "SERAIS",
+      "RIS"
+    ],
+    "word" : "ARIBESS"
+  },
+  {
+    "rs" : [
+      "REND",
+      "RENDE",
+      "VEND",
+      "VENDRE"
+    ],
+    "word" : "VRDNEE"
+  },
+  {
+    "rs" : [
+      "GARDÉ",
+      "GRÉ",
+      "DÉGAGER",
+      "RAGE",
+      "GARDE",
+      "GARE"
+    ],
+    "word" : "AÉDGGRE"
+  },
+  {
+    "rs" : [
+      "BAR",
+      "RARE",
+      "BARRAGE",
+      "RAGE",
+      "BAGARRE",
+      "GARE"
+    ],
+    "word" : "AARRBGE"
+  },
+  {
+    "rs" : [
+      "AMATEUR",
+      "MARTEAU",
+      "AURA",
+      "MEURT",
+      "AUTRE",
+      "TUERA",
+      "TUER",
+      "ARME"
+    ],
+    "word" : "AAMRTUE"
+  },
+  {
+    "rs" : [
+      "VER",
+      "IRA",
+      "RAVI",
+      "VRAIE",
+      "VRAI",
+      "IVRE",
+      "RAVIE"
+    ],
+    "word" : "VARIE"
+  },
+  {
+    "rs" : [
+      "CES",
+      "RUE",
+      "SUR",
+      "RUES",
+      "SUCRE",
+      "SUCER"
+    ],
+    "word" : "SRUEC"
+  },
+  {
+    "rs" : [
+      "RÉPOND",
+      "ROND",
+      "DOUÉ",
+      "RÉPONDU",
+      "POUR",
+      "PRO",
+      "DUR",
+      "ROUND"
+    ],
+    "word" : "DRNOÉPU"
+  },
+  {
+    "rs" : [
+      "PARS",
+      "PLANS",
+      "PLAN",
+      "SALON",
+      "PARLONS",
+      "ALORS"
+    ],
+    "word" : "RANSOPL"
+  },
+  {
+    "rs" : [
+      "VEND",
+      "REVU",
+      "RUDE",
+      "REND",
+      "VENU",
+      "DURE",
+      "VENDEUR"
+    ],
+    "word" : "VDRUNEE"
+  }
+]
